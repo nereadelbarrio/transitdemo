@@ -577,7 +577,8 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     -o-background-size: 100%;
     background-size: contain;
     background-position: 0;
-    background-color: rgba(154,153,158,0)
+    background-color: rgba(154,153,158,0);
+    vertical-align: bottom;
 }
 
 /*#actividad .player.audio:hover {
@@ -590,13 +591,14 @@ body #actividad .workspace.chooseblanks .inline-answer a {
 #actividad .player.video,
 #help-panel-content .player,
 #remote-alert-modal-rich .player {
-    height: 30px!important;
-    width: 28px;
+    height: 45px!important;
+    width: 46px;
     display: inline-block;
     background-repeat: no-repeat;
     border-radius: 0;
     margin-right: 5px;
-    padding: 0
+    padding: 0;
+
 }
 
 #actividad .player.audio,
@@ -1075,10 +1077,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-enfasis-2 {
-    font-size: 2rem;
-    color: #2298D4;
+.bck-enfasis-2 {
+    font-size: 14px;
+    color: #EF3D61;
     font-weight: 500;
     font-style: italic;
+    font-family: 'Atma';
 }
 
 .bck-enfasis-3 {
