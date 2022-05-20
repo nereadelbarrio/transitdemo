@@ -592,7 +592,7 @@ body #actividad .workspace.chooseblanks .inline-answer a {
 #help-panel-content .player,
 #remote-alert-modal-rich .player {
     height: 45px!important;
-    width: 46px;
+    width: 50px;
     display: inline-block;
     background-repeat: no-repeat;
     border-radius: 0;
@@ -1082,6 +1082,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-weight: 500;
     font-style: italic;
     font-family: 'Atma';
+    position: relative;
+    margin-left: -35px;
 }
 
 .bck-enfasis-3 {
