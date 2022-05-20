@@ -66,14 +66,15 @@
 				
 				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
 				
-				{ name: 'Icono Hablar 01', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
-				{ name: 'Icono Hablar 02', element: 'span', attributes: { 'class': 'icon icon-hablarAzul' } },
-				{ name: 'Icono Hablar 03', element: 'span', attributes: { 'class': 'icon icon-hablarVerdeClaro' } },
-				{ name: 'Icono Hablar Naranja', element: 'span', attributes: { 'class': 'icon icon-hablarNaranja' } },
-				{ name: 'Icono Hablar Azul Oscuro', element: 'span', attributes: { 'class': 'icon icon-hablarAzulOscuro' } },
-				{ name: 'Icono Hablar Morado', element: 'span', attributes: { 'class': 'icon icon-hablarMorado' } },
-				{ name: 'Icono Hablar Burdeos', element: 'span', attributes: { 'class': 'icon icon-hablarBurdeos' } },
-				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
+				{ name: 'Icono Hablar 01', element: 'span', attributes: { 'class': 'icon icon-hablar1' } },
+				{ name: 'Icono Hablar 02', element: 'span', attributes: { 'class': 'icon icon-hablar2' } },
+				{ name: 'Icono Hablar 03', element: 'span', attributes: { 'class': 'icon icon-icon-hablar3' } },
+				{ name: 'Icono Hablar Leer', element: 'span', attributes: { 'class': 'icon icon-leer' } },
+				{ name: 'Icono Hablar Dados', element: 'span', attributes: { 'class': 'icon icon-dados' } },
+				{ name: 'Icono Hablar Lápiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
+				{ name: 'Icono Hablar Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
+				{ name: 'Icono A toi', element: 'span', attributes: { 'class': 'icon icon-a_toi' } },
+				{ name: 'Icono A vous', element: 'span', attributes: { 'class': 'icon icon-a_vous' } },
 
 				{ name: 'Desplegable 01', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
 				{ name: 'Desplegable 03', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-3' } },
