@@ -3299,7 +3299,7 @@ display: none;
     width: 25px;
 }
 
-.item-container .icon-lapiz:before {
+.item-container .icon-lupa:before {
     background-image: url(images/icono_lupa.png);
             content: "";
     background-repeat: no-repeat;
@@ -3315,7 +3315,7 @@ display: none;
     width: 27px;
 }
 
-.item-container .icon-lupa:before {
+.item-container .icon-lapiz:before {
     background-image: url(images/icono_lapiz.png);
             content: "";
     background-repeat: no-repeat;
