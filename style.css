@@ -571,7 +571,7 @@ body #actividad .workspace.chooseblanks .inline-answer a {
 
 /*audios*/
 #actividad .player.audio {
-    background-image: url(images/icono_audio_rojo.png);
+    background-image: url(images/audio_transit.png);
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
