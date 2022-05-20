@@ -116,7 +116,7 @@ body {
     font-size: 16px;
     font-weight: 500;
     color: #231F20;
-    font-family: 'StradaOT';
+    font-family: 'Titillium';
 }
 
 .body_clase .content-wrapper,
@@ -3301,22 +3301,78 @@ display: none;
 
 .item-container .icon-lapiz:before {
     background-image: url(images/icono_lapiz.png);
+            content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
+    height: 26px;
+    width: 27px;
 }
 
 .item-container .icon-dados:before {
     background-image: url(images/icono_dados.png);
+            content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
 }
 
 .item-container .icon-leer:before {
     background-image: url(images/icono_leer.png);
+            content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
 }
 
 .item-container .icon-a_toi:before {
     background-image: url(images/icono_a_toi.png);
+            content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
+    height: 50px;
+    width: 53px;
 }
 
 .item-container .icon-a_vous:before {
     background-image: url(images/icono_a_vous.png);
+            content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
+    height: 50px;
+    width: 53px;
 }
 
 
