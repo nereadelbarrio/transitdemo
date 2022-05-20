@@ -3286,11 +3286,34 @@ display: none;
 
 .item-container .icon-hablar2:before {
     background-image: url(images/icono_bocadillo_2.png);
-    margin-right: 10px
+        content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
+    height: 32px;
+    width: 25px;
 }
 
 .item-container .icon-hablar3:before {
-    background-image: url(images/icono_bocadillo_3.png);
+        background-image: url(images/icono_bocadillo_3.png);
+        content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
+    height: 32px;
+    width: 25px;
 }
 
 .item-container .icon-lapiz:before {
