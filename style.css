@@ -3268,8 +3268,8 @@ display: none;
 }
 
 
-.item-container .icon-hablar:before {
-    background-image: url(images/icono_hablar_rojo.png);
+.item-container .icon-hablar1:before {
+    background-image: url(images/icono_bocadillo_1.png);
     content: "";
     background-repeat: no-repeat;
     -webkit-background-size: contain;
@@ -3284,33 +3284,33 @@ display: none;
     margin-right: 5px
 }
 
-.item-container .icon-musica:before {
-    background-image: url(images/icono_audio_naranja.PNG);
+.item-container .icon-hablar2:before {
+    background-image: url(images/icono_bocadillo_2.png);
     margin-right: 10px
 }
 
-.item-container .icon-hablarAzul:before {
-    background-image: url(images/icono_hablar_azul.png);
+.item-container .icon-hablar3:before {
+    background-image: url(images/icono_bocadillo_3.png);
 }
 
-.item-container .icon-hablarVerdeClaro:before {
-    background-image: url(images/icono_hablar_verde.png);
+.item-container .icon-lapiz:before {
+    background-image: url(images/icono_lapiz.png);
 }
 
-.item-container .icon-hablarNaranja:before {
-    background-image: url(images/icono_hablar_naranja.PNG);
+.item-container .icon-dados:before {
+    background-image: url(images/icono_dados.png);
 }
 
-.item-container .icon-hablarAzulOscuro:before {
-    background-image: url(images/icono_hablar_azulOscuro.png);
+.item-container .icon-leer:before {
+    background-image: url(images/icono_leer.png);
 }
 
-.item-container .icon-hablarMorado:before {
-    background-image: url(images/icono_hablar_morado.png);
+.item-container .icon-a_toi:before {
+    background-image: url(images/icono_a_toi.png);
 }
 
-.item-container .icon-hablarBurdeos:before {
-    background-image: url(images/icono_hablar_burdeos.PNG);
+.item-container .icon-a_vous:before {
+    background-image: url(images/icono_a_vous.png);
 }
 
 
