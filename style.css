@@ -1389,37 +1389,33 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso .bck-ul-1 li,
 #actividad .popover-content .bck-ul-1 li,
 #actividad .content .workspace ul li .bck-ul-1 li {
-    padding-left: 40px;
+padding-left: 36px;
     position: relative;
     list-style: none;
     margin-bottom: 5px;
     font-size: 2rem;
     font-weight: 100;
-    margin-left: -2px;
+    margin-left: 13px;
     color: inherit;
 }
-
-
-/*#actividad .content .texto_curso .bck-ul-1 li,
-#actividad .content .workspace ul li .bck-ul-1 li,
-#actividad .popover-background.shown .popover-content .bck-ul-1 li {
-    font-size: 2rem;
-    font-weight: 100;
-    margin-left: -2px
-}*/
 
 #actividad .content .cke_contents .bck-ul-1 li:before,
 #actividad .content .texto_curso ul.bck-ul-1 li:before,
 #actividad .popover-content ul.bck-ul-1 li:before,
 #actividad .content .workspace ul li ul.bck-ul-1 li:before {
-    color: #1d1d1b;
-    content: "";
     height: 12px;
     width: 12px;
-    background-color: #FAC9B6;
+    background-color: #fff;
     border-radius: 100%;
     margin-top: 13px;
     margin-left: -19px;
+    font-family: FontAwesome;
+    content: "\f00c";
+    color: #ef3d61;
+    position: absolute;
+    font-size: 15px;
+    margin-top: 2px;
+    margin-left: -3px;
 }
 
 #actividad .content .texto_curso .bck-ul-2 li,
