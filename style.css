@@ -1541,7 +1541,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso .bck-ol-1 li, 
 #actividad .content .workspace ul li .bck-ol-1 li, 
 #actividad .popover-content .bck-ol-1 li {
-    counter-increment: bck-li-counter;
+counter-increment: bck-li-counter;
     padding-left: 0;
     position: relative;
     z-index: 0;
@@ -1549,7 +1549,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -15px;
     margin-top: 10px;
     font-size: 2rem;
-    font-family: 'StradaOT-Semibd';
+    font-family: 'Titillium';
     line-height: 1.8em!important;
 }
 
@@ -1558,8 +1558,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso .bck-ol-1 li:before, 
 #actividad .content .workspace ul li .bck-ol-1 li:before, 
 #actividad .popover-content .bck-ol-1 li:before {
-    content: counter(bck-li-counter);
-    height: 27px;
+content: counter(bck-li-counter);
+    height: 25px;
     position: absolute;
     color: #fff;
     background: #EF3D61;
@@ -1569,12 +1569,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-right: 0;
     text-align: right;
     font-family: 'Atma';
-    font-size: 2.3rem;
+    font-size: 2.4rem;
     font-weight: 600;
-    line-height: normal;
+    line-height: 1.2;
     top: 4px;
     text-align: center;
-    width: 28px;
+    width: 25px;
     left: auto;
 }
 
@@ -1590,30 +1590,38 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso .bck-ol-2 li,
 #actividad .content .workspace ul li .bck-ol-2 li,
 #actividad .popover-content .bck-ol-2 li {
-    counter-increment: bck-li-counter;
+counter-increment: bck-li-counter;
     padding-left: 0;
     position: relative;
     z-index: 0;
-    margin-left: 0;
+    font-weight: 600;
+    margin-left: -15px;
     margin-top: 10px;
-    font-weight: 500;
+    font-size: 2rem;
+    font-family: 'Titillium';
+    line-height: 1.8em!important;
 }
 
 #actividad .content .cke_contents ol.bck-ol-2 li:before, 
 #actividad .content .texto_curso ol.bck-ol-2 li:before, 
 #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
 #actividad .popover-content ol.bck-ol-2 li:before {
-    content: counter(bck-li-counter) " ";
-        position: absolute;
-        font-size: 2rem;
-        font-weight: 600;
-        color: #414141;
-        background: none;
-        margin-left: -20px;
-        margin-right: 0;
-        text-align: right;
-        font-family: 'ZineSlabDisOT';
-        margin-top: 2px;
+content: counter(bck-li-counter);
+    height: 25px;
+    position: absolute;
+    color: #ef3d61;
+    border-radius: 100%;
+    margin-left: -40px;
+    margin-right: 0;
+    text-align: right;
+    font-family: 'Atma';
+    font-size: 2.4rem;
+    font-weight: 600;
+    line-height: 1.2;
+    top: 4px;
+    text-align: center;
+    width: 25px;
+    left: auto;
 }
 
 
