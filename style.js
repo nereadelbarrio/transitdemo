@@ -68,7 +68,7 @@
 				
 				{ name: 'Icono Hablar 01', element: 'span', attributes: { 'class': 'icon icon-hablar1' } },
 				{ name: 'Icono Hablar 02', element: 'span', attributes: { 'class': 'icon icon-hablar2' } },
-				{ name: 'Icono Hablar 03', element: 'span', attributes: { 'class': 'icon icon-icon-hablar3' } },
+				{ name: 'Icono Hablar 03', element: 'span', attributes: { 'class': 'icon icon-hablar3' } },
 				{ name: 'Icono Hablar Leer', element: 'span', attributes: { 'class': 'icon icon-leer' } },
 				{ name: 'Icono Hablar Dados', element: 'span', attributes: { 'class': 'icon icon-dados' } },
 				{ name: 'Icono Hablar Lápiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
