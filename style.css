@@ -3,134 +3,110 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: 'Soho Gothic Pro';
-    src: url('fonts/SohoGothicPro-Regular.eot');
-    src: url('fonts/SohoGothicPro-Regular.eot?#iefix') format('embedded-opentype'),
-        url('fonts/SohoGothicPro-Regular.woff') format('woff'),
-        url('fonts/SohoGothicPro-Regular.ttf') format('truetype'),
-        url('fonts/SohoGothicPro-Regular.svg#SohoGothicPro-Regular') format('svg');
+    font-family: 'Helvetica Inserat LT Std';
+    src: url('fonts/HelveticaInseratLTStd-Roman.eot');
+    src: url('fonts/HelveticaInseratLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HelveticaInseratLTStd-Roman.woff2') format('woff2'),
+        url('fonts/HelveticaInseratLTStd-Roman.woff') format('woff'),
+        url('fonts/HelveticaInseratLTStd-Roman.ttf') format('truetype'),
+        url('fonts/HelveticaInseratLTStd-Roman.svg#HelveticaInseratLTStd-Roman') format('svg');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Soho Gothic Pro';
-    src: url('fonts/SohoGothicPro-Bold.eot');
-    src: url('fonts/SohoGothicPro-Bold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/SohoGothicPro-Bold.woff') format('woff'),
-        url('fonts/SohoGothicPro-Bold.ttf') format('truetype'),
-        url('fonts/SohoGothicPro-Bold.svg#SohoGothicPro-Bold') format('svg');
+    font-family: 'Helvetica Neue LT Std';
+    src: url('fonts/HelveticaNeueLTStd-HvCn.eot');
+    src: url('fonts/HelveticaNeueLTStd-HvCn.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HelveticaNeueLTStd-HvCn.woff2') format('woff2'),
+        url('fonts/HelveticaNeueLTStd-HvCn.woff') format('woff'),
+        url('fonts/HelveticaNeueLTStd-HvCn.ttf') format('truetype'),
+        url('fonts/HelveticaNeueLTStd-HvCn.svg#HelveticaNeueLTStd-HvCn') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atma';
+    src: url('fonts/Atma-Medium.eot');
+    src: url('fonts/Atma-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Atma-Medium.woff2') format('woff2'),
+        url('fonts/Atma-Medium.woff') format('woff'),
+        url('fonts/Atma-Medium.ttf') format('truetype'),
+        url('fonts/Atma-Medium.svg#Atma-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('fonts/MinionPro-Regular.eot');
+    src: url('fonts/MinionPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MinionPro-Regular.woff2') format('woff2'),
+        url('fonts/MinionPro-Regular.woff') format('woff'),
+        url('fonts/MinionPro-Regular.ttf') format('truetype'),
+        url('fonts/MinionPro-Regular.svg#MinionPro-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Titillium';
+    src: url('fonts/Titillium-Bold.eot');
+    src: url('fonts/Titillium-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Titillium-Bold.woff2') format('woff2'),
+        url('fonts/Titillium-Bold.woff') format('woff'),
+        url('fonts/Titillium-Bold.ttf') format('truetype'),
+        url('fonts/Titillium-Bold.svg#Titillium-Bold') format('svg');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'StradaOT';
-    src: url('fonts/StradaOT-Light.eot');
-    src: url('fonts/StradaOT-Light.eot?#iefix') format('embedded-opentype'),
-        url('fonts/StradaOT-Light.woff') format('woff'),
-        url('fonts/StradaOT-Light.ttf') format('truetype'),
-        url('fonts/StradaOT-Light.svg#StradaOT-Light') format('svg');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'StradaOT';
-    src: url('fonts/StradaOT.eot');
-    src: url('fonts/StradaOT.eot?#iefix') format('embedded-opentype'),
-        url('fonts/StradaOT.woff') format('woff'),
-        url('fonts/StradaOT.ttf') format('truetype'),
-        url('fonts/StradaOT.svg#StradaOT') format('svg');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'StradaOT-Semibd';
-    src: url('fonts/StradaOT-Semibd.eot');
-    src: url('fonts/StradaOT-Semibd.eot?#iefix') format('embedded-opentype'),
-        url('fonts/StradaOT-Semibd.woff') format('woff'),
-        url('fonts/StradaOT-Semibd.ttf') format('truetype'),
-        url('fonts/StradaOT-Semibd.svg#StradaOT-Semibd') format('svg');
+    font-family: 'Titillium';
+    src: url('fonts/Titillium-Semibold.eot');
+    src: url('fonts/Titillium-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Titillium-Semibold.woff2') format('woff2'),
+        url('fonts/Titillium-Semibold.woff') format('woff'),
+        url('fonts/Titillium-Semibold.ttf') format('truetype'),
+        url('fonts/Titillium-Semibold.svg#Titillium-Semibold') format('svg');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Soho Gothic Pro';
-    src: url('fonts/SohoGothicPro-Medium.eot');
-    src: url('fonts/SohoGothicPro-Medium.eot?#iefix') format('embedded-opentype'),
-        url('fonts/SohoGothicPro-Medium.woff') format('woff'),
-        url('fonts/SohoGothicPro-Medium.ttf') format('truetype'),
-        url('fonts/SohoGothicPro-Medium.svg#SohoGothicPro-Medium') format('svg');
-    font-weight: 500;
+    font-family: 'Supernett cn';
+    src: url('fonts/Supernettcn-Bold.eot');
+    src: url('fonts/Supernettcn-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Supernettcn-Bold.woff2') format('woff2'),
+        url('fonts/Supernettcn-Bold.woff') format('woff'),
+        url('fonts/Supernettcn-Bold.ttf') format('truetype'),
+        url('fonts/Supernettcn-Bold.svg#Supernettcn-Bold') format('svg');
+    font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'VAGRundschriftEF';
-    src: url('fonts/VAGRundschriftEF.eot');
-    src: url('fonts/VAGRundschriftEF.eot?#iefix') format('embedded-opentype'),
-        url('fonts/VAGRundschriftEF.woff') format('woff'),
-        url('fonts/VAGRundschriftEF.ttf') format('truetype'),
-        url('fonts/VAGRundschriftEF.svg#VAGRundschriftEF') format('svg');
-    font-weight: 500;
+    font-family: 'Titillium';
+    src: url('fonts/Titillium-Regular.eot');
+    src: url('fonts/Titillium-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Titillium-Regular.woff2') format('woff2'),
+        url('fonts/Titillium-Regular.woff') format('woff'),
+        url('fonts/Titillium-Regular.ttf') format('truetype'),
+        url('fonts/Titillium-Regular.svg#Titillium-Regular') format('svg');
+    font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'StradaOT';
-    src: url('fonts/StradaOT-Bold.eot');
-    src: url('fonts/StradaOT-Bold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/StradaOT-Bold.woff') format('woff'),
-        url('fonts/StradaOT-Bold.ttf') format('truetype'),
-        url('fonts/StradaOT-Bold.svg#StradaOT-Bold') format('svg');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'ZineSlabDisOT-MediIt';
-    src: url('fonts/ZineSlabDisOT-MediIt.eot');
-    src: url('fonts/ZineSlabDisOT-MediIt.eot?#iefix') format('embedded-opentype'),
-        url('fonts/ZineSlabDisOT-MediIt.woff') format('woff'),
-        url('fonts/ZineSlabDisOT-MediIt.ttf') format('truetype'),
-        url('fonts/ZineSlabDisOT-MediIt.svg#ZineSlabDisOT-MediIt') format('svg');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'ZineSlabDisOT-Medi';
-    src: url('fonts/ZineSlabDisOT-Medi.eot');
-    src: url('fonts/ZineSlabDisOT-Medi.eot?#iefix') format('embedded-opentype'),
-        url('fonts/ZineSlabDisOT-Medi.woff') format('woff'),
-        url('fonts/ZineSlabDisOT-Medi.ttf') format('truetype'),
-        url('fonts/ZineSlabDisOT-Medi.svg#ZineSlabDisOT-Medi') format('svg');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'ZineSlabDisOT';
-    src: url('fonts/ZineSlabDisOT.eot');
-    src: url('fonts/ZineSlabDisOT.eot?#iefix') format('embedded-opentype'),
-        url('fonts/ZineSlabDisOT.woff') format('woff'),
-        url('fonts/ZineSlabDisOT.ttf') format('truetype'),
-        url('fonts/ZineSlabDisOT.svg#ZineSlabDisOT') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'ZineSansDisOT';
-    src: url('fonts/ZineSansDisOT.eot');
-    src: url('fonts/ZineSansDisOT.eot?#iefix') format('embedded-opentype'),
-        url('fonts/ZineSansDisOT.woff') format('woff'),
-        url('fonts/ZineSansDisOT.ttf') format('truetype'),
-        url('fonts/ZineSansDisOT.svg#ZineSansDisOT') format('svg');
-    font-weight: normal;
+    font-family: 'Atma';
+    src: url('fonts/Atma-SemiBold.eot');
+    src: url('fonts/Atma-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Atma-SemiBold.woff2') format('woff2'),
+        url('fonts/Atma-SemiBold.woff') format('woff'),
+        url('fonts/Atma-SemiBold.ttf') format('truetype'),
+        url('fonts/Atma-SemiBold.svg#Atma-SemiBold') format('svg');
+    font-weight: 600;
     font-style: normal;
 }
 
@@ -1583,19 +1559,22 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .workspace ul li .bck-ol-1 li:before, 
 #actividad .popover-content .bck-ol-1 li:before {
     content: counter(bck-li-counter);
-    width: 32px;
     height: 27px;
     position: absolute;
-    color: #ec6f59;
-    background: none;
+    color: #fff;
+    background: #EF3D61;
+    border: 1px solid #ef3d61;
+    border-radius: 100%;
     margin-left: -40px;
     margin-right: 0;
     text-align: right;
-    font-family: 'ZineSlabDisOT';
+    font-family: 'Atma';
     font-size: 2.3rem;
     font-weight: 600;
     line-height: normal;
     top: 4px;
+    text-align: center;
+    width: 28px;
     left: auto;
 }
 
