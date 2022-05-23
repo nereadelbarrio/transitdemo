@@ -670,7 +670,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-title-5 {
     color: #ef3d61;
-    font-size: 30px;
+    font-size: 40px;
     width: fit-content;
     font-weight: 500;
     font-family: 'Atma';
@@ -2036,12 +2036,8 @@ counter-increment: bck-li-counter;
 }
 
 .bck-box.bck-box-1 {
-    /* margin-top: inherit; */
-    /* min-height: inherit; */
     position: relative;
-    BORDER: 3px solid #ec6f59;
-    border-radius: 20px 80px 20px 80px;
-    border-left: 130px solid #ec6f59;
+    BORDER: 2px solid #00ADEE;
     padding: 30px;
 }
 
@@ -2050,30 +2046,21 @@ counter-increment: bck-li-counter;
     content: none
 }
 
-.bck-box.bck-box-1:before {
-    background-image: url(images/icono_caja_01.png);
-    content: " ";
-    position: absolute;
-    left: -120px;
-    z-index: 100;
-    padding: 41px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
-    top: 12px;
-    border: none;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-}
-
 
 .bck-box.bck-box-1>.bck-content {
     padding-left: 0
 }
 
-.bck-title {
-    border-bottom: none
+.bck-box.bck-box-1>.bck-title {
+    font-size: 26px;
+    border: none;
+    font-family: 'Titillium';
+    margin-top: -60px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #00adee;
+    text-transform: uppercase;
 }
 
 .bck-box-1>.bck-content {
@@ -2081,9 +2068,6 @@ counter-increment: bck-li-counter;
     padding: 0;
 }
 
-.bck-box-1>.bck-content p {
-    font-size: 2.2rem
-}
 
 .bck-box.bck-box-1>.bck-title {
     color: inherit;
@@ -2092,9 +2076,6 @@ counter-increment: bck-li-counter;
     font-family: 'ZineSlabDisOT-Medi';
 }
 
-.bck-box.bck-box-1>.bck-title p {
-    font-size: 26px;
-}
 
 .bck-box.bck-box-2 {
     margin-top: 15px;
