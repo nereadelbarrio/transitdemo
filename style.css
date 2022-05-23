@@ -1673,7 +1673,6 @@ counter-increment: bck-li-counter;
     margin-left: -15px;
     margin-top: 10px;
     font-size: 2rem;
-    font-family: 'StradaOT-Semibd';
     line-height: 1.8em!important;
 }
 
@@ -1681,20 +1680,19 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso ol.bck-ol-5 li:before, 
 #actividad .content .workspace ul li ol.bck-ol-5 li:before, 
 #actividad .popover-content ol.bck-ol-5 li:before {
-        color: #E79F25;
-    content: counter(bck-li-counter);
-    width: 32px;
-    height: 27px;
+    content: counter(bck-li-counter,lower-alpha) "";
+    height: 25px;
     position: absolute;
-    background: none;
-    margin-left: -40px;
+    color: #ef3d61;
+    border-radius: 100%;
+    margin-left: -35px;
     margin-right: 0;
     text-align: right;
-    font-family: 'ZineSlabDisOT';
-    font-size: 2.3rem;
+    font-family: 'Titillium';
     font-weight: 600;
-    line-height: normal;
-    top: 4px;
+    top: 0px;
+    text-align: center;
+    width: 30px;
     left: auto;
 }
 
