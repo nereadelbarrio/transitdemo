@@ -2039,7 +2039,7 @@ counter-increment: bck-li-counter;
 .bck-box.bck-box-1 {
     position: relative;
     BORDER: 2px solid #00ADEE;
-    padding: 0px;
+    padding: 10px;
 }
 
 .bck-box.bck-box-1:after {
@@ -2056,7 +2056,7 @@ counter-increment: bck-li-counter;
 font-size: 30px;
     border: none;
     font-family: 'Titillium';
-    margin-top: -60px;
+    margin-top: -35px;
     background-color: #fff;
     width: fit-content;
     text-align: center;
