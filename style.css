@@ -2083,9 +2083,11 @@ font-size: 30px;
 
 /*caja 02*/
 .bck-box.bck-box-2 {
-    position: relative;
+position: relative;
     BORDER: 2px solid #00ADEE;
     padding: 10px;
+    background-color: #fff;
+    border-radius: 0;
 }
 
 .bck-box.bck-box-2:after {
@@ -2101,8 +2103,8 @@ font-size: 30px;
 .bck-box.bck-box-2>.bck-title {
 font-size: 30px;
     border: none;
-    font-family: 'Titillium';
-    margin-top: -35px;
+    font-family: 'Atma';
+    margin-top: -52px;
     background-color: #fff;
     width: fit-content;
     text-align: center;
@@ -2118,8 +2120,7 @@ font-size: 30px;
 }
 
 .bck-box.bck-box-2>.bck-title p {
-    font-weight: 600;
-    font-size: 28px;
+    font-size: 23px;
 }
 
 .bck-box.bck-box-2:before {
