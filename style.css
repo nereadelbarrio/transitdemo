@@ -1539,7 +1539,6 @@ counter-increment: bck-li-counter;
     padding-left: 0;
     position: relative;
     z-index: 0;
-    font-weight: 600;
     margin-left: -15px;
     margin-top: 10px;
     font-size: 2rem;
@@ -1551,7 +1550,7 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso ol.bck-ol-2 li:before, 
 #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
 #actividad .popover-content ol.bck-ol-2 li:before {
-content: counter(bck-li-counter);
+content: counter(bck-li-counter,lower-alpha) "";
     height: 25px;
     position: absolute;
     color: #ef3d61;
