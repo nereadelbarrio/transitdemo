@@ -1063,11 +1063,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-weight: inherit;
 }
 
+
 .bck-enfasis-7 {
-    border-radius: 12px;
-    padding: 7px 15px;
-    background-color: #F7941D;
-    color: #fff;
+    color: #EC00A8;
+    font-weight: inherit;
 }
 
 .bck-enfasis-8 {
@@ -2134,35 +2133,46 @@ display: none;
 }
 
 
+/*caja 03*/
 .bck-box.bck-box-3 {
-    margin-top: 15px;
-    border: none;
-    background: transparent
-}
-
-.bck-box.bck-box-3>.bck-title {
-    color: inherit
-}
-
-.bck-box.bck-box-3>.bck-content {
-    background-color: #ffffff;
-    border: 2px solid #ec6f59;
-    border-radius: 30px 30px 30px 30px;
-    padding: 8px 18px 8px 19px;
-    width: auto;
+position: relative;
+    BORDER: 2px solid #EC00A8;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 0;
 }
 
 .bck-box.bck-box-3:after {
-    background-image: url(images/icono_caja_02derecha.png);
-    content: " ";
-    position: absolute;
-    right: 30%;
-    margin-top: -5px;
-    z-index: 100;
-    padding: 10px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
+    display: none;
+    content: none
+}
+
+
+.bck-box.bck-box-3>.bck-content {
+    padding-left: 0
+}
+
+.bck-box.bck-box-3>.bck-title {
+font-size: 30px;
+    border: none;
+    font-family: 'Atma';
+    margin-top: -52px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #EC00A8;
+    text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.bck-box-3>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box.bck-box-3>.bck-title p {
+    font-size: 23px;
 }
 
 .bck-box.bck-box-4 {
