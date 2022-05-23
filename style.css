@@ -1539,6 +1539,7 @@ counter-increment: bck-li-counter;
     padding-left: 0;
     position: relative;
     z-index: 0;
+    font-weight: 600;
     margin-left: -15px;
     margin-top: 10px;
     font-size: 2rem;
@@ -1550,7 +1551,7 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso ol.bck-ol-2 li:before, 
 #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
 #actividad .popover-content ol.bck-ol-2 li:before {
-content: counter(bck-li-counter,lower-alpha) "";
+content: counter(bck-li-counter);
     height: 25px;
     position: absolute;
     color: #ef3d61;
@@ -1585,7 +1586,6 @@ counter-increment: bck-li-counter;
     padding-left: 0;
     position: relative;
     z-index: 0;
-    font-weight: 600;
     margin-left: -15px;
     margin-top: 10px;
     font-size: 2rem;
@@ -1597,20 +1597,21 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso ol.bck-ol-3 li:before, 
 #actividad .content .workspace ul li ol.bck-ol-3 li:before, 
 #actividad .popover-content ol.bck-ol-3 li:before {
-    color: #208FCF;
-    content: counter(bck-li-counter);
-    width: 32px;
-    height: 27px;
+    content: counter(bck-li-counter,lower-alpha) "";
+    height: 25px;
     position: absolute;
-    background: none;
-    margin-left: -40px;
+    color: #ef3d61;
+    border-radius: 100%;
+    margin-left: -35px;
     margin-right: 0;
     text-align: right;
-    font-family: 'ZineSlabDisOT';
-    font-size: 2.3rem;
+    font-family: 'Atma';
+    font-size: 2.4rem;
     font-weight: 600;
-    line-height: normal;
+    line-height: 1.2;
     top: 4px;
+    text-align: center;
+    width: 25px;
     left: auto;
 }
 
@@ -2038,7 +2039,7 @@ counter-increment: bck-li-counter;
 .bck-box.bck-box-1 {
     position: relative;
     BORDER: 2px solid #00ADEE;
-    padding: 10px;
+    padding: 0px;
 }
 
 .bck-box.bck-box-1:after {
