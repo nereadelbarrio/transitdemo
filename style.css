@@ -2174,33 +2174,22 @@ font-size: 30px;
     font-size: 23px;
 }
 
+
+/*caja 04*/
 .bck-box.bck-box-4 {
-    background-color: #ffffff;
-    border: 3px solid #E79F25;
-    border-radius: 00px 50px 20px 50px;
-    display: block;
-    line-height: 1.43em;
-    padding: 10px 20px;
+    padding: 30px 30px 7px 30px;
+    background-color: #9CD7CB;
+    border-radius: 144px 152px 96px 180px/67px 84px 94px 140px;
 }
 
-.bck-box.bck-box-4>.bck-title {
-    color: inherit;
-    background: #e79f25;
-    border: none;
-    position: relative;
-    top: -45px;
-    width: fit-content;
-    padding: 0px 35px 0px 12px;
-    border-radius: 23px 39px 0px 4px;
-    left: -23px;
-    color: #fff;
-}
 
 .bck-box.bck-box-4>.bck-content {
-    background-color: #ffffff;
-    color: #e79f25;
+color: #fff;
     border-radius: 10px;
-    margin-top: -40px;
+    padding: 27px 49px 29px 43px;
+    border-radius: 0;
+    background-color: #04B7A0;
+    border-radius: 186px 84px 137px 83px/81px 153px 53px 112px;
 }
 
 .bck-box.bck-box-5 {
