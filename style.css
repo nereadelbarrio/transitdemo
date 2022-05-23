@@ -1059,10 +1059,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-enfasis-6 {
-    border-radius: 12px;
-    padding: 7px 15px;
-    background-color: #006F45;
-    color: #fff;
+    color: #F68A4D;
+    font-weight: inherit;
 }
 
 .bck-enfasis-7 {
@@ -2084,7 +2082,7 @@ font-size: 30px;
 /*caja 02*/
 .bck-box.bck-box-2 {
 position: relative;
-    BORDER: 2px solid #00ADEE;
+    BORDER: 2px solid #F68A4D;
     padding: 10px;
     background-color: #fff;
     border-radius: 0;
