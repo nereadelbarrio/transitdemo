@@ -2081,35 +2081,57 @@ font-size: 30px;
 }
 
 
+/*caja 02*/
 .bck-box.bck-box-2 {
-    margin-top: 15px;
-    border: none;
-    background: transparent
-}
-
-.bck-box.bck-box-2>.bck-title {
-    color: inherit
-}
-
-.bck-box.bck-box-2>.bck-content {
-    background-color: #ffffff;
-    border: 2px solid #ec6f59;
-    border-radius: 30px 30px 30px 30px;
-    padding: 8px 18px 8px 19px;
-    width: auto;
+    position: relative;
+    BORDER: 2px solid #00ADEE;
+    padding: 10px;
 }
 
 .bck-box.bck-box-2:after {
-    background-image: url(images/icono_caja_02.png);
-    content: " ";
-    position: absolute;
-    left: 10%;
-    margin-top: -5px;
-    z-index: 100;
-    padding: 10px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
+    display: none;
+    content: none
+}
+
+
+.bck-box.bck-box-2>.bck-content {
+    padding-left: 0
+}
+
+.bck-box.bck-box-2>.bck-title {
+font-size: 30px;
+    border: none;
+    font-family: 'Titillium';
+    margin-top: -35px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #F68A4D;
+    text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.bck-box-2>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box.bck-box-2>.bck-title p {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.bck-box.bck-box-2:before {
+    display: none;
+}
+
+.bck-box.bck-box-2:after {
+display: none;
+}
+
+.bck-box.bck-box-2 .bck-title:before {
+display: none;
 }
 
 
