@@ -62,9 +62,9 @@
 				{ name: 'Caja 10', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-10' } },
 
 
-				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
+				{ name: 'Tabla 01', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-1'} },
 				
-				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
+				{ name: 'Celda 01', element: 'td', attributes: { 'class': 'bck-td-1'} },
 				
 				{ name: 'Icono Hablar 01', element: 'span', attributes: { 'class': 'icon icon-hablar1' } },
 				{ name: 'Icono Hablar 02', element: 'span', attributes: { 'class': 'icon icon-hablar2' } },
