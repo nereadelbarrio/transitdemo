@@ -668,39 +668,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     width: 70%;
 }
 
-.bck-title-4:before {
-    content: "";
-    background-image: url(images/icono_title_04.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 70px;
-    margin-top: -30px;
-    position: absolute;
-    left: 0px;
-}
-
 .bck-title-5 {
-    color: inherit;
-    height: 64px;
-    border-radius: 15px;
-    width: 70%;
-}
-
-.bck-title-5:before {
-    content: "YOUR TURN TO WRITE";
-    background-image: url(images/icono_title_06.png);
-    background-size: contain;
-    background-repeat: repeat;
-    z-index: 100;
-    width: 28%;
-    padding: 10px 11px 10px 24px;
-    background-color: #007c39;
-    display: inline-block;
-    color: #fff;
-    -moz-border-radius: 20px 0 0 50px;
-    border-radius: 20px 0 0 50px;
-    margin-right: 6px;
-    vertical-align: sub;
+    color: #ef3d61;
+    font-size: 30px;
+    width: fit-content;
+    font-weight: 500;
+    font-family: 'Atma';
 }
 
 .bck-title-6 {
