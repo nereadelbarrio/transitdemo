@@ -1039,7 +1039,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-style: italic;
     font-family: 'Atma';
     position: relative;
-    margin-left: -35px;
+    margin-left: -37px;
+    padding-right: 20px;
 }
 
 .bck-enfasis-3 {
@@ -2033,10 +2034,12 @@ counter-increment: bck-li-counter;
     text-align: inherit
 }
 
+
+/*caja 01*/
 .bck-box.bck-box-1 {
     position: relative;
     BORDER: 2px solid #00ADEE;
-    padding: 30px;
+    padding: 10px;
 }
 
 .bck-box.bck-box-1:after {
@@ -2050,7 +2053,7 @@ counter-increment: bck-li-counter;
 }
 
 .bck-box.bck-box-1>.bck-title {
-    font-size: 26px;
+font-size: 30px;
     border: none;
     font-family: 'Titillium';
     margin-top: -60px;
@@ -2059,6 +2062,8 @@ counter-increment: bck-li-counter;
     text-align: center;
     color: #00adee;
     text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .bck-box-1>.bck-content {
@@ -2066,12 +2071,13 @@ counter-increment: bck-li-counter;
     padding: 0;
 }
 
+.bck-box.bck-box-1>.bck-title p {
+    font-weight: 600;
+    font-size: 28px;
+}
 
-.bck-box.bck-box-1>.bck-title {
-    color: inherit;
-    font-size: 26px;
-    border: none;
-    font-family: 'ZineSlabDisOT-Medi';
+.bck-box.bck-box-1:before {
+    display: none;
 }
 
 
