@@ -3409,6 +3409,18 @@ td,th {
     border: 0 solid #ccc
 }
 
+/*TABLA 1*/ 
+table.bck-table-1 {
+    border: 2px solid #fff;
+    background-color: #EDDEE2;
+}
+
+
+table.bck-table-1 td {
+    border-color: #fff;
+    background-color: #EDDEE2;
+}
+
 
 
 #actividad .workspace.test .respuestas li {
