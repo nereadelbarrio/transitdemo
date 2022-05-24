@@ -2165,7 +2165,7 @@ font-size: 30px;
 
 
 /*caja 04*/
-.body_clase:not(.edit) #actividad .bck-box.bck-box-4 {
+.bck-box.bck-box-4 {
     padding: 30px 30px 7px 30px;
     background-color: #9CD7CB;
     border-radius: 144px 152px 96px 180px/67px 84px 94px 140px;
