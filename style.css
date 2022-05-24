@@ -1353,7 +1353,8 @@ padding-left: 36px;
 #actividad .content .texto_curso .bck-ul-2 li,
 #actividad .content .workspace ul li .bck-ul-2 li,
 #actividad .popover-background.shown .popover-content .bck-ul-2 li {
-    line-height: 1.8em!important
+    line-height: 1.8em!important;
+    margin-left: 6px;
 }
 
 #actividad .content .texto_curso .bck-ul-2 li:before,
@@ -1364,10 +1365,10 @@ padding-left: 36px;
     width: 7px;
     background-color: #414141;
     position: absolute;
-    top: 2px;
-    border-radius: 100%;
+    top: 4px;
+    border-radius: 10%;
     left: auto;
-    margin: 13px 0 0 -15px
+    margin: 13px 0 0 -20px;
 }
 
 
