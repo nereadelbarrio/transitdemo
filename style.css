@@ -2181,18 +2181,34 @@ color: #fff;
     border-radius: 186px 84px 137px 83px/81px 153px 53px 112px;
 }
 
+
+/*caja 05*/
 .bck-box.bck-box-5 {
     padding: 30px 30px 7px 30px;
-        background-color: #F6EED9;
-        border-radius: 155px 55px 119px 67px/55px 125px 31px 111px;
+    border: 9px dotted #F68A4D;
+    background-color: #fff;
+    border-radius: 210px 71px 127px 70px/69px 125px 69px 137px;
+    width: 70%;
+    margin-left: 80px;
 }
 
-.bck-box.bck-box-5>.bck-title p {
-    font-size: 2.8rem;
+
+.bck-box.bck-box-5 :before {
+    background: url(images/icono_caja_05.PNG);
+    content: "";
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 66px 56px 0 25px;
+    position: absolute;
+    right: 9px;
+    z-index: 100;
+    top: 4%;
+    width: 30px;
 }
+
 
 .bck-box.bck-box-5>.bck-title {
-    color: #e79f25;
+    color:inherit;
         border: none;
 }
 
