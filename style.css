@@ -2015,7 +2015,7 @@ counter-increment: bck-li-counter;
 
 
 /*caja 01*/
-.bck-box.bck-box-1 {
+.body_clase:not(.edit) #actividad .bck-box.bck-box-1 {
     position: relative;
     BORDER: 2px solid #00ADEE;
     padding: 10px;
@@ -2031,7 +2031,7 @@ counter-increment: bck-li-counter;
     padding-left: 0
 }
 
-.bck-box.bck-box-1>.bck-title {
+.body_clase:not(.edit) #actividad .bck-box.bck-box-1>.bck-title {
 font-size: 30px;
     border: none;
     font-family: 'Titillium';
@@ -2061,7 +2061,7 @@ font-size: 30px;
 
 
 /*caja 02*/
-.bck-box.bck-box-2 {
+.body_clase:not(.edit) #actividad .bck-box.bck-box-2 {
 position: relative;
     BORDER: 2px solid #F68A4D;
     padding: 10px;
@@ -2085,7 +2085,7 @@ position: relative;
     margin-top: -22px;
 }
 
-.bck-box.bck-box-2>.bck-title {
+.body_clase:not(.edit) #actividad .bck-box.bck-box-2>.bck-title {
 font-size: 30px;
     border: none;
     font-family: 'Atma';
@@ -2122,7 +2122,7 @@ display: none;
 
 
 /*caja 03*/
-.bck-box.bck-box-3 {
+.body_clase:not(.edit) #actividad .bck-box.bck-box-3 {
 position: relative;
     BORDER: 2px solid #EC00A8;
     padding: 10px;
@@ -2140,7 +2140,7 @@ position: relative;
     padding-left: 0
 }
 
-.bck-box.bck-box-3>.bck-title {
+.body_clase:not(.edit) #actividad .bck-box.bck-box-3>.bck-title {
 font-size: 30px;
     border: none;
     font-family: 'Atma';
@@ -2165,7 +2165,7 @@ font-size: 30px;
 
 
 /*caja 04*/
-.bck-box.bck-box-4 {
+.body_clase:not(.edit) #actividad .bck-box.bck-box-4 {
     padding: 30px 30px 7px 30px;
     background-color: #9CD7CB;
     border-radius: 144px 152px 96px 180px/67px 84px 94px 140px;
