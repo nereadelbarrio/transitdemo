@@ -19,7 +19,6 @@
 				{ name: 'Título 04', element: 'h2', attributes: { 'class': 'bck-title bck-title-4'} },
 				{ name: 'Título 05', element: 'h2', attributes: { 'class': 'bck-title bck-title-5'} },
 				{ name: 'Título 06', element: 'h2', attributes: { 'class': 'bck-title bck-title-6'} },
-				{ name: 'Título 07', element: 'h2', attributes: { 'class': 'bck-title bck-title-7'} },
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
@@ -29,6 +28,7 @@
 				{ name: 'Énfasis 06', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'Énfasis 07', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Énfasis 08', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
+				{ name: 'Énfasis 09', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 
 				{ name: 'Lista 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
 				{ name: 'Lista 02', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
