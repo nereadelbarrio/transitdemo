@@ -2184,7 +2184,7 @@ color: #fff;
 
 /*caja 05*/
 .bck-box.bck-box-5 {
-    padding: 30px 30px 7px 30px;
+    padding: 28px 30px 7px 30px;
     border: 9px dotted #F68A4D;
     background-color: #fff;
     border-radius: 210px 71px 127px 70px/69px 125px 69px 137px;
@@ -2198,12 +2198,12 @@ color: #fff;
     content: "";
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 66px 56px 0 25px;
     position: absolute;
-    left: -204px;
+    left: -130px;
     z-index: 100;
     top: 4%;
-    width: 176px;
+    width: 136px;
+    padding: 20px;
 }
 
 
