@@ -2091,6 +2091,12 @@ position: relative;
     padding-left: 0
 }
 
+.bck-box.bck-box-2>.bck-content {
+    border: 0;
+    padding: 10px 25px;
+    margin-top: -22px;
+}
+
 .bck-box.bck-box-2>.bck-title {
 font-size: 30px;
     border: none;
