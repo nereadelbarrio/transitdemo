@@ -20,10 +20,6 @@
 				{ name: 'Título 05', element: 'h2', attributes: { 'class': 'bck-title bck-title-5'} },
 				{ name: 'Título 06', element: 'h2', attributes: { 'class': 'bck-title bck-title-6'} },
 				{ name: 'Título 07', element: 'h2', attributes: { 'class': 'bck-title bck-title-7'} },
-				{ name: 'Título 08', element: 'h2', attributes: { 'class': 'bck-title bck-title-8'} },
-				{ name: 'Título 09', element: 'h2', attributes: { 'class': 'bck-title bck-title-9'} },
-				{ name: 'Título 10', element: 'h2', attributes: { 'class': 'bck-title bck-title-10'} },
-
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
@@ -33,16 +29,10 @@
 				{ name: 'Énfasis 06', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'Énfasis 07', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Énfasis 08', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
-				{ name: 'Énfasis 09', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
-				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 
-				{ name: 'Lista Desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
-				{ name: 'Lista Desordenada 02', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
-				{ name: 'Lista Desordenada 03', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-3' } },
-				{ name: 'Lista Desordenada 04', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-4' } },
-				{ name: 'Lista Desordenada 05', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-5' } },
-				{ name: 'Lista Desordenada 06', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-6' } },
-				{ name: 'Lista Desordenada 07', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-7' } },
+				{ name: 'Lista 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
+				{ name: 'Lista 02', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
+				{ name: 'Lista 03', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-3' } },
 							
 				{ name: 'Lista 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista 02', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
@@ -56,10 +46,7 @@
 				{ name: 'Caja 04', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-4' } },
 				{ name: 'Caja 05', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-5' } },
 				{ name: 'Caja 06', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-6' } },
-				{ name: 'Caja 07', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-7' } },
-				{ name: 'Caja 08', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-8' } },
-				{ name: 'Caja 09', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-9' } },
-				{ name: 'Caja 10', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-10' } },
+				
 
 
 				{ name: 'Tabla 01', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-1'} },
