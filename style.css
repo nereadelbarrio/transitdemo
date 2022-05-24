@@ -691,18 +691,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 
-.bck-title-7 {
-    color: #208FCF;
-    font-size: 2.5rem;
-    text-align: left;
-    font-family: 'ZineSlabDisOT-Medi';
-    padding-top: 10px;
-    font-weight: 400;
-    margin-left: -25px;
-}
-
-
-
 /*enfasis*/
 /*.bck-enfasis {
     font-size: 5rem;
@@ -758,7 +746,15 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-family: 'Supernett cn';
 }
 
-
+.bck-enfasis-9 {
+    border-color: #00BDFF;
+    background: #B6ECFF;
+    box-shadow: inset 0px 2px 5px 0px #bfb5a9;
+    border-radius: 4px;
+    padding: 0 6px;
+    height: 1.8em!important;
+    margin-bottom: 7px;
+}
 
 .texto_curso li {
     line-height: 1.8em!important
