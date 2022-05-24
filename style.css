@@ -755,6 +755,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     height: 1.8em!important;
     margin-bottom: 7px;
     border: 1px #00BDFF solid;
+    color: #555555;
 }
 
 .texto_curso li {
