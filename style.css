@@ -2200,10 +2200,10 @@ color: #fff;
     background-repeat: no-repeat;
     padding: 66px 56px 0 25px;
     position: absolute;
-    right: 9px;
+    left: -204px;
     z-index: 100;
     top: 4%;
-    width: 30px;
+    width: 176px;
 }
 
 
