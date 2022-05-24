@@ -751,9 +751,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background: #B6ECFF;
     box-shadow: inset 0px 2px 5px 0px #bfb5a9;
     border-radius: 4px;
-    padding: 0 6px;
+    padding: 3px 6px;
     height: 1.8em!important;
     margin-bottom: 7px;
+    border: 1px #00BDFF solid;
 }
 
 .texto_curso li {
