@@ -916,15 +916,16 @@ padding-left: 36px;
 #actividad .content .texto_curso ul.bck-ul-3 li:before,
 #actividad .popover-content ul.bck-ul-3 li:before,
 #actividad .content .workspace ul li ul.bck-ul-3 li:before {
-    color: #1d1d1b;
+        color: #1d1d1b;
     content: "";
-    height: 12px;
-    width: 12px;
-    background-color: #BED5EE;
+    height: 8px;
+    width: 8px;
+    background-color: #414141;
     border-radius: 100%;
-    margin-top: 13px;
-    margin-left: -19px;
+    margin-top: 16px;
+    margin-left: 3px;
 }
+
 
 
 /*listas ordenadas*/
