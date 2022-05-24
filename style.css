@@ -662,10 +662,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-title-4 {
-    color: inherit;
-    height: 64px;
-    border-radius: 15px;
-    width: 70%;
+     color: #556772;
+    text-transform: uppercase;
+    font-size: 25px;
 }
 
 .bck-title-5 {
@@ -677,23 +676,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-title-6 {
-    color: #208FCF;
-    border: 2px solid #208FCF !important;
-    font-size: 2.4rem;
-    background: #ffffff;
-    width: fit-content;
-    padding: 7PX 30PX 7px 24px;
-    border-radius: 30px 10px 37px 10px;
-    font-weight: 700;
-    font-family: 'StradaOT-Semibd';
-    text-transform: uppercase;
+
 }
 
 
-.bck-title-6:before {
-    content: none;
-    display: none
-}
+
 
 .bck-title-7 {
     color: #208FCF;
