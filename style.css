@@ -633,6 +633,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     border-bottom: none;
 }*/
 
+.bck-title {
+    border-bottom: none;
+    color: #9acb1e;
+    font-size: 2.1rem;
+    font-weight: bold;
+}
+
 .bck-title-1 {
     color: #EF3D61;
     font-size: 28px;
