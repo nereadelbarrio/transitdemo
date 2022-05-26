@@ -1803,9 +1803,9 @@ table.bck-table-1 td {
     background-color: #ffffff;
     border: 3px solid #EF3D61;
     margin-top: 10px;
-    border-radius: 30px 10px 37px 10px;
-    -webkit-border-radius: 30px 10px 37px 10px;
-    -moz-border-radius: 30px 10px 37px 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
 
 }
 
