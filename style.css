@@ -282,7 +282,7 @@ body.is_app #actividad .class_slide {
 #actividad .content .header .title h3 {
     color: #4b4b4b;
     width: 100%;
-    padding: 13px;
+    padding: 13px 0;
     font-weight: 700;
 }
 
@@ -455,12 +455,18 @@ li img {
     line-height: 2.5rem
 }
 
+.fillblanks-draggable-wrapper .response {
+        color: #A39888;
+        border: 3px solid #A39888;
+}
+
 .fillblanks-draggable-wrapper .response p {
     position: relative;
     margin: 0;
     text-align: center;
     padding: 5px 10px;
-    font-size: 1.8rem
+    font-size: 1.8rem;
+    font-weight: 600;
 }
 
 body #actividad .workspace.chooseblanks .inline-answer a {
