@@ -177,11 +177,11 @@ p {
 
 #book-index #indice .units ul li.active a,
 #book-index .col-main {
-   background: #007c39;
+   background: #C40C42;
 }
 
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
-    background: inherit;
+    background: #C40C42;
 }
 
 #indice .unit-content {
