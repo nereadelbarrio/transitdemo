@@ -363,7 +363,7 @@ body.is_app .transitdemo-navbar.ocultar {
     content: "";
     background-size: contain;
     top: 12px;
-    background-image: url(images/transitdemo_logo.png) !important;
+    background-image: url(images/logo.png) !important;
     position: fixed;
     width: 100px;
     height: 23px;
@@ -380,7 +380,7 @@ body.is_app .transitdemo-navbar.ocultar {
     left: 0;
     width: 98px;
     height: 44px;
-    background: url(images/transitdemo_logo.png) 0 0 no-repeat;
+    background: url(images/logo.png) 0 0 no-repeat;
     -webkit-background-size: contain;
        -moz-background-size: contain;
          -o-background-size: contain;
