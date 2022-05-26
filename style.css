@@ -530,9 +530,9 @@ body #actividad .workspace.chooseblanks .inline-answer a {
 
 .slide_main .img-input-container,
  .slide_main input {
-    border-bottom-color: #aa9b8a;
+    border-bottom-color: #a39888;
     background-color: #F2E7D8;
-    box-shadow: inset 0px 2px 5px 0px #bfb5a9;
+    box-shadow: inset 0px 2px 5px 0px #a39888;
 }
 
 .cke_inner,.cke_wysiwyg_div {
