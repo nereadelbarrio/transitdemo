@@ -1688,6 +1688,7 @@ table.bck-table-1 td {
     -moz-border-radius: 10px;
     border-radius: 10px;
     font-size: 14px;
+    vertical-align: inherit;
 }
 
 /*.btn-group>.btn:first-child {
@@ -1741,9 +1742,8 @@ table.bck-table-1 td {
 }
 
 #actividad .content .review .attemps span {
-    background-color: #007C39;
-    border-radius: 30px 10px 37px 10px;
-
+    background-color: #62a036;
+    border-radius: 10px;
 }
 
 #actividad .portada .class_slide {
