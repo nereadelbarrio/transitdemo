@@ -1714,11 +1714,11 @@ table.bck-table-1 td {
 
 .btn-primary,.btn-primary.disabled,
 .btn-primary.disabled:focus {
-    background-color: #007C39;
+    background-color: #c40c42;
 }
 
 .btn-primary[disabled],.btn-primary[disabled]:focus {
-    background-color: #007C39;
+    background-color: #c40c42;
 }
 
 .btn-primary.active,
