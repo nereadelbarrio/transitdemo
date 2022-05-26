@@ -1701,14 +1701,14 @@ table.bck-table-1 td {
 .btn-danger, 
 .btn-danger[disabled] {
     color: #fff;
-    background-color: #007C39;
-    border: 2px solid #007C39;
+    background-color: #62A036;
+    border: 2px solid #62A036;
 }
 
 .btn-danger:hover {
-    color: #007C39;
+    color: #62A036;
     background-color: #FFF;
-    border: #007C39 3PX SOLID;
+    border: #62A036 3PX SOLID;
     FONT-WEIGHT: 700;
 }
 
@@ -1735,7 +1735,7 @@ table.bck-table-1 td {
 .btn-primary:not([disabled]):active,
 .btn-primary.active, .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #E79F25;
+    background-color: #EF3D61;
     opacity: .9;
     border-color: transparent;
 }
