@@ -117,6 +117,7 @@ body {
     font-weight: 500;
     color: #231F20;
     font-family: 'Titillium';
+    background-color: #fff;
 }
 
 .body_clase .content-wrapper,
@@ -197,29 +198,25 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
 }
 
 #indice .units ul li {
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
-    -webkit-box-shadow: 1px 1px 1px 1px #c2c2c2;
-    box-shadow: 1px 1px 1px 1px #c2c2c2;
-    border-radius: 30px 10px 37px 10px;
+    -webkit-border-radius: 10px 10px 37px 10px;
+    -moz-border-radius: 10px 10px 37px 10px;
+    -webkit-box-shadow: 1px 1px 2px 0px #b6b6b6;
+    box-shadow: 1px 1px 2px 0px #b6b6b6;
+    border-radius: 10px 10px 37px 10px;
 }
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-    border-radius: 30px 10px 37px 10px;
-    background: #007C39;
-        border-radius: 30px 10px 37px 10px;
-        border: 3px solid #fff;
+    background: #C40C42;
+    border-radius: 10px 10px 37px 10px;
+    border: 3px solid #ffffff;
 }
 
 #indice .units ul li.hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
-    background: #139dc5;
-    border-radius: 30px 10px 37px 10px;
-    background: #007C39;
-    border-radius: 30px 10px 37px 10px;
+    background: #EF3D61;
+    border-radius: 10px 10px 37px 10px;
     border: 3px solid #fff;
 }
 
@@ -1687,9 +1684,9 @@ table.bck-table-1 td {
 /*botones*/
 .btn {
     padding: 6px 15px;
-    -webkit-border-radius: 30px 10px 37px 10px;
-    -moz-border-radius: 30px 10px 37px 10px;
-    border-radius: 30px 10px 37px 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
     font-size: 14px;
 }
 
@@ -1698,7 +1695,7 @@ table.bck-table-1 td {
 }*/
 
 .btn-primary,.btn-primary.disabled {
-    background-color: #ea5b0c
+    background-color: #c40c42;
 }
 
 .btn-danger, 
