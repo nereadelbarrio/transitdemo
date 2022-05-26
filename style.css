@@ -1707,10 +1707,7 @@ table.bck-table-1 td {
 }
 
 .btn-danger:hover {
-    color: #62A036;
-    background-color: #FFF;
-    border: #62A036 3PX SOLID;
-    FONT-WEIGHT: 700;
+    background-color: #90C73E;
 }
 
 .btn-primary,.btn-primary.disabled,
