@@ -761,6 +761,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #555555;
 }
 
+
+.bck-enfasis-10 {
+        color: #005BAB;
+    font-style: italic;
+}
+
 .texto_curso li {
     line-height: 1.8em!important
 }
