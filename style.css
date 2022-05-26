@@ -1635,6 +1635,7 @@ table.bck-table-1 {
 table.bck-table-1 td {
     border-color: #fff;
     background-color: #EDDEE2;
+    border: 5px solid #fff;
 }
 
 
