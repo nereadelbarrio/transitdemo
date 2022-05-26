@@ -1835,9 +1835,9 @@ table.bck-table-1 td {
     background-color: #ffffff;
     border: 3px solid #2793d0;
     margin-top: 10px;
-    border-radius: 30px 10px 37px 10px;
-    -webkit-border-radius: 30px 10px 37px 10px;
-    -moz-border-radius: 30px 10px 37px 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 0px;
 
 }
 
@@ -1845,22 +1845,21 @@ table.bck-table-1 td {
     font-size: 2.5rem;
     font-weight: 600;
     padding-left: 10px;
-    color: #2793d0;
-    font-family: 'StradaOT-Semibd';
+    color: #0695C7;0695C7
 }
 
 .bck-dropdown-12 .bck-dropdown-icon {
     background-color: #fff;
     width: 25px;
     height: 10px;
-    color: #2793d0;
+    color: #0695C7;
 }
 
 .bck-dropdown-12 .bck-dropdown-content {
     background-color: #fff;
     border: none;
     padding-left: 17px;
-    border-radius: 30px 10px 37px 10px;
+    border-radius:10px;
     max-height: 800%;
 }
 
