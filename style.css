@@ -376,10 +376,10 @@ body.is_app .transitdemo-navbar.ocultar {
 .navbar-content .logo-publisher {
     display: inline-block;
     position: absolute;
-    top: -5px;
+    top: -2px;
     left: 0;
     width: 98px;
-    height: 44px;
+    height: 37px;
     background: url(images/logo_transit.jpg) 0 0 no-repeat;
     -webkit-background-size: contain;
        -moz-background-size: contain;
