@@ -581,7 +581,7 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     background-size: contain;
     background-position: 0;
     background-color: rgba(154,153,158,0);
-    vertical-align: bottom;
+    vertical-align: middle;
 }
 
 /*#actividad .player.audio:hover {
@@ -600,6 +600,7 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     background-repeat: no-repeat;
     border-radius: 0;
     margin-right: 5px;
+    margin-top: -10px;
     padding: 0;
 
 }
@@ -2058,7 +2059,7 @@ table.bck-table-1 td {
         margin-top: 99px
     }
 
-    #actividad .player.audio,
+    /*#actividad .player.audio,
     #actividad .player.video,
     #help-panel-content .player,
     #remote-alert-modal-rich .player {
@@ -2071,8 +2072,7 @@ table.bck-table-1 td {
         -moz-border-radius: 100%;
         border-radius: 100%;
         margin: 0 5px;
-        vertical-align: sub
-    }
+    }*/
 
     #actividad .carousel-inner .item-container {
         -webkit-box-shadow: transparent 0 3px 9px;
