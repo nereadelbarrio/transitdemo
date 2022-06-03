@@ -552,7 +552,7 @@ body #actividad .workspace.chooseblanks .inline-answer a {
 #actividad .workspace.clasificar .clasificar_conjuntos .group-name-title {
     display: table-cell;
     vertical-align: middle;
-    font-family: 'StradaOT-Semibd';
+    font-weight: 600;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
