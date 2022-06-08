@@ -1426,7 +1426,7 @@ color: #fff;
 }
 
 
-.bck-box.bck-box-7 :before {
+.bck-box.bck-box-7:before {
     background: url(images/icono_caja_07.png);
     content: "";
     background-size: contain;
@@ -1980,6 +1980,17 @@ table.bck-table-1 td {
 }
 
 /*****************coursetags************************/
+/*****************unittag_azul************************/
+/*audios*/
+.unittag_azul #actividad .player.audio {
+    background-image: url(images/audio_transit_azul.png);
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: contain;
+    background-position: 0;
+    background-color: rgba(154,153,158,0)
+}
 
 
 /*querys*/
