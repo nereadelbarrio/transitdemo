@@ -1442,6 +1442,11 @@ color: #fff;
 
 .bck-box.bck-box-7>.bck-title {
     color: #EF3D61;
+    margin-left: 35px;
+}
+
+.bck-box.bck-box-7>.bck-title p {
+    font-weight: 700;
 }
 
 .bck-box.bck-box-7>.bck-content {
