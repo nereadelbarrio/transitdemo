@@ -1459,6 +1459,66 @@ color: #fff;
     display: none;
 }
 
+/*caja 08*/
+.body_clase:not(.edit) #actividad .bck-box.bck-box-8 {
+position: relative;
+    BORDER: 2px solid #84A0CD;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 0;
+}
+
+.bck-box.bck-box-8:after {
+    display: none;
+    content: none
+}
+
+
+.bck-box.bck-box-8>.bck-content {
+    padding-left: 0
+}
+
+.bck-box.bck-box-8>.bck-content {
+    border: 0;
+    padding: 10px 25px;
+    margin-top: -22px;
+}
+
+.body_clase:not(.edit) #actividad .bck-box.bck-box-8>.bck-title {
+font-size: 30px;
+    border: none;
+    font-family: 'Atma';
+    margin-top: -44px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #84A0CD;
+    text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.bck-box-8>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box.bck-box-8>.bck-title p {
+    font-size: 23px;
+}
+
+.bck-box.bck-box-8:before {
+    display: none;
+}
+
+.bck-box.bck-box-8:after {
+display: none;
+}
+
+.bck-box.bck-box-8 .bck-title:before {
+display: none;
+}
+
 /**/
 
 #actividad .content .iniciounidad .header .title h3 {
