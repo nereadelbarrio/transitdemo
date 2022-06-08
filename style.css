@@ -1488,7 +1488,7 @@ color: #fff;
 
 /*iconos*/
 .item-container .icon:before {
-        height: 22px;
+        height: 28px;
     width: 34px;
     margin-right: 5px;
     margin-top: -5px;
@@ -1539,8 +1539,8 @@ color: #fff;
     display: inline-block;
     vertical-align: sub;
     margin-right: 10px;
-    height: 32px;
-    width: 25px;
+    height: 35px;
+    width: 33px;
 }
 
 .item-container .icon-lupa:before {
@@ -1555,8 +1555,8 @@ color: #fff;
     display: inline-block;
     vertical-align: sub;
     margin-right: 10px;
-    height: 26px;
-    width: 27px;
+    height: 31px;
+    width: 31px;
 }
 
 .item-container .icon-lapiz:before {
@@ -1571,8 +1571,8 @@ color: #fff;
     display: inline-block;
     vertical-align: sub;
     margin-right: 10px;
-    height: 26px;
-    width: 27px;
+    height: 31px;
+    width: 31px;
 }
 
 .item-container .icon-dados:before {
