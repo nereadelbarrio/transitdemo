@@ -1417,6 +1417,43 @@ color: #fff;
     padding: 0;
 }
 
+/*caja 07*/
+.bck-box.bck-box-7 {
+    padding: 16px 30px 16px 30px;
+    border: 1px solid #EF3D61;
+    background-color: #fff;
+    border-radius: 0 30px 30px 30px;
+}
+
+
+.bck-box.bck-box-7 :before {
+    background: url(images/icono_caja_07.png);
+    content: "";
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: -72px;
+    z-index: 100;
+    top: -29%;
+    width: 85px;
+    padding: 45px;
+}
+
+
+.bck-box.bck-box-7>.bck-title {
+    color:inherit;
+        border: none;
+}
+
+.bck-box.bck-box-7>.bck-content {
+    color: #f68a4d;
+    border-radius: 10px;
+    padding: 6px 25px 6px 23px;
+    border-radius: 0;
+    font-family: 'Atma';
+    text-align: center;
+}
+
 /**/
 
 #actividad .content .iniciounidad .header .title h3 {
