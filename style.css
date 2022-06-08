@@ -1441,17 +1441,13 @@ color: #fff;
 
 
 .bck-box.bck-box-7>.bck-title {
-    color:inherit;
-        border: none;
+    color: #EF3D61;
 }
 
 .bck-box.bck-box-7>.bck-content {
-    color: #f68a4d;
     border-radius: 10px;
     padding: 6px 25px 6px 23px;
     border-radius: 0;
-    font-family: 'Atma';
-    text-align: center;
 }
 
 /**/
