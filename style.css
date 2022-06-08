@@ -1450,6 +1450,10 @@ color: #fff;
     border-radius: 0;
 }
 
+.bck-box.bck-box-7>.bck-content:before {
+    display: none;
+}
+
 /**/
 
 #actividad .content .iniciounidad .header .title h3 {
