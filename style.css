@@ -1603,6 +1603,20 @@ color: #fff;
     margin-right: 10px;
 }
 
+.item-container .icon-video:before {
+    background-image: url(images/icono_video.png);
+            content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-right: 10px;
+}
+
 .item-container .icon-a_toi:before {
     background-image: url(images/icono_a_toi.png);
             content: "";
@@ -1985,108 +1999,112 @@ table.bck-table-1 td {
 }
 
 /*****************coursetags************************/
-/*****************unittag_azul************************/
+/*****************unittag_azul_transit************************/
 /*audios*/
-.unittag_azul #actividad .player.audio {
+.unittag_azul_transit #actividad .player.audio {
     background-image: url(images/audio_transit_azul.png);
 }
 
-.unittag_azul .bck-title-5 {
+.unittag_azul_transit .bck-title-5 {
     color: #0695C7;
 }
 
-.unittag_azul .bck-title-6 {
+.unittag_azul_transit .bck-title-6 {
     color: #0695C7;
 }
 
-.unittag_azul .bck-enfasis-2 {
+.unittag_azul_transit .bck-enfasis-2 {
     color: #0695C7;
 }
 
-.unittag_azul .bck-enfasis-3 {
+.unittag_azul_transit .bck-enfasis-3 {
     color: #0695C7;
 }
 
-.unittag_azul .item-container .icon-hablar1:before {
+.unittag_azul_transit .item-container .icon-hablar1:before {
     background-image: url(images/icono_bocadillo_1_azul.png);
 }
 
-.unittag_azul .item-container .icon-hablar2:before {
+.unittag_azul_transit .item-container .icon-hablar2:before {
     background-image: url(images/icono_bocadillo_2_azul.png);
 }
 
-.unittag_azul .item-container .icon-hablar3:before {
+.unittag_azul_transit .item-container .icon-hablar3:before {
         background-image: url(images/icono_bocadillo_3_azul.png);
 }
 
-.unittag_azul .item-container .icon-lupa:before {
+.unittag_azul_transit .item-container .icon-lupa:before {
     background-image: url(images/icono_lupa_azul.png);
 }
 
-.unittag_azul .item-container .icon-lapiz:before {
+.unittag_azul_transit .item-container .icon-lapiz:before {
     background-image: url(images/icono_lapiz_azul.png);
 }
 
-.unittag_azul .item-container .icon-dados:before {
+.unittag_azul_transit .item-container .icon-dados:before {
     background-image: url(images/icono_dados_azul.png);
 }
 
-.unittag_azul .item-container .icon-leer:before {
+.unittag_azul_transit .item-container .icon-leer:before {
     background-image: url(images/icono_leer_azul.png);
 }
 
+.unittag_azul_transit .item-container .icon-video:before {
+    background-image: url(images/icono_video_azul.png);
+}
 
-.unittag_azul #actividad .content .cke_contents .bck-ol-1 li:before, 
-.unittag_azul #actividad .content .texto_curso .bck-ol-1 li:before, 
-.unittag_azul #actividad .content .workspace ul li .bck-ol-1 li:before, 
-.unittag_azul #actividad .popover-content .bck-ol-1 li:before {
+
+.unittag_azul_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
+.unittag_azul_transit #actividad .content .texto_curso ol.bck-ol-1 li:before, 
+.unittag_azul_transit #actividad .content .workspace ul li ol.bck-ol-1 li:before, 
+.unittag_azul_transit #actividad .popover-content ol.bck-ol-1 li:before {
     background: #0695C7;
     border: 1px solid #0695C7;
 }
 
-.unittag_azul #actividad .content .cke_contents ol.bck-ol-2 li:before, 
-.unittag_azul #actividad .content .texto_curso ol.bck-ol-2 li:before, 
-.unittag_azul #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
-.unittag_azul #actividad .popover-content ol.bck-ol-2 li:before {
+.unittag_azul_transit #actividad .content .cke_contents ol.bck-ol-2 li:before, 
+.unittag_azul_transit #actividad .content .texto_curso ol.bck-ol-2 li:before, 
+.unittag_azul_transit #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
+.unittag_azul_transit #actividad .popover-content ol.bck-ol-2 li:before {
     color: #0695C7;
 }
 
-.unittag_azul #actividad .content .cke_contents ol.bck-ol-3 li:before, 
-.unittag_azul #actividad .content .texto_curso ol.bck-ol-3 li:before, 
-.unittag_azul #actividad .content .workspace ul li ol.bck-ol-3 li:before, 
-.unittag_azul #actividad .popover-content ol.bck-ol-3 li:before {
+.unittag_azul_transit #actividad .content .cke_contents ol.bck-ol-3 li:before, 
+.unittag_azul_transit #actividad .content .texto_curso ol.bck-ol-3 li:before, 
+.unittag_azul_transit #actividad .content .workspace ul li ol.bck-ol-3 li:before, 
+.unittag_azul_transit #actividad .popover-content ol.bck-ol-3 li:before {
     color: #0695C7;
 }
 
-.unittag_azul #actividad .content .cke_contents ol.bck-ol-4 li:before, 
-.unittag_azul #actividad .content .texto_curso ol.bck-ol-4 li:before, 
-.unittag_azul #actividad .content .workspace ul li ol.bck-ol-4 li:before, 
-.unittag_azul #actividad .popover-content ol.bck-ol-4 li:before {
+.unittag_azul_transit #actividad .content .cke_contents ol.bck-ol-4 li:before, 
+.unittag_azul_transit #actividad .content .texto_curso ol.bck-ol-4 li:before, 
+.unittag_azul_transit #actividad .content .workspace ul li ol.bck-ol-4 li:before, 
+.unittag_azul_transit #actividad .popover-content ol.bck-ol-4 li:before {
     color: #0695C7;
 }
 
-.unittag_azul #actividad .content .cke_contents ol.bck-ol-5 li:before, 
-.unittag_azul #actividad .content .texto_curso ol.bck-ol-5 li:before, 
-.unittag_azul #actividad .content .workspace ul li ol.bck-ol-5 li:before, 
-.unittag_azul #actividad .popover-content ol.bck-ol-5 li:before {
+.unittag_azul_transit #actividad .content .cke_contents ol.bck-ol-5 li:before, 
+.unittag_azul_transit #actividad .content .texto_curso ol.bck-ol-5 li:before, 
+.unittag_azul_transit #actividad .content .workspace ul li ol.bck-ol-5 li:before, 
+.unittag_azul_transit #actividad .popover-content ol.bck-ol-5 li:before {
     color: #0695C7;
 }
 
-.unittag_azul #actividad .content .cke_contents .bck-ul-1 li:before,
-.unittag_azul #actividad .content .texto_curso ul.bck-ul-1 li:before,
-.unittag_azul #actividad .popover-content ul.bck-ul-1 li:before,
-.unittag_azul #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+.unittag_azul_transit #actividad .content .cke_contents .bck-ul-1 li:before,
+.unittag_azul_transit #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.unittag_azul_transit #actividad .popover-content ul.bck-ul-1 li:before,
+.unittag_azul_transit #actividad .content .workspace ul li ul.bck-ul-1 li:before {
     color: #0695C7;
 }
 
 
 /*caja 07*/
-.unittag_azul .bck-box.bck-box-7 {
+.unittag_azul_transit .bck-box.bck-box-7 {
     border: 1px solid #0695C7;
 }
 
 
-.unittag_azul .bck-box.bck-box-7:before {
+.unittag_azul_transit .bck-box.bck-box-7:before {
     background: url(images/icono_caja_07_azul.png);
         content: "";
     background-size: contain;
@@ -2100,7 +2118,7 @@ table.bck-table-1 td {
 }
 
 
-.unittag_azul .bck-box.bck-box-7>.bck-title {
+.unittag_azul_transit .bck-box.bck-box-7>.bck-title {
     color: #0695C7;
 }
 
