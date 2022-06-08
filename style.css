@@ -2122,8 +2122,499 @@ table.bck-table-1 td {
     color: #0695C7;
 }
 
+/*****************unittag_rosa_transit************************/
+/*audios*/
+.unittag_rosa_transit #actividad .player.audio {
+    background-image: url(images/audio_transit_azul.png);
+}
+
+.unittag_rosa_transit .bck-title-5 {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit .bck-title-6 {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit .bck-enfasis-2 {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit .bck-enfasis-3 {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit .item-container .icon-hablar1:before {
+    background-image: url(images/icono_bocadillo_1_azul.png);
+}
+
+.unittag_rosa_transit .item-container .icon-hablar2:before {
+    background-image: url(images/icono_bocadillo_2_azul.png);
+}
+
+.unittag_rosa_transit .item-container .icon-hablar3:before {
+        background-image: url(images/icono_bocadillo_3_azul.png);
+}
+
+.unittag_rosa_transit .item-container .icon-lupa:before {
+    background-image: url(images/icono_lupa_azul.png);
+}
+
+.unittag_rosa_transit .item-container .icon-lapiz:before {
+    background-image: url(images/icono_lapiz_azul.png);
+}
+
+.unittag_rosa_transit .item-container .icon-dados:before {
+    background-image: url(images/icono_dados_azul.png);
+}
+
+.unittag_rosa_transit .item-container .icon-leer:before {
+    background-image: url(images/icono_leer_azul.png);
+}
+
+.unittag_rosa_transit .item-container .icon-video:before {
+    background-image: url(images/icono_video_azul.png);
+}
 
 
+.unittag_rosa_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
+.unittag_rosa_transit #actividad .content .texto_curso ol.bck-ol-1 li:before, 
+.unittag_rosa_transit #actividad .content .workspace ul li ol.bck-ol-1 li:before, 
+.unittag_rosa_transit #actividad .popover-content ol.bck-ol-1 li:before {
+    background: #CD6281;
+    border: 1px solid #CD6281;
+}
+
+.unittag_rosa_transit #actividad .content .cke_contents ol.bck-ol-2 li:before, 
+.unittag_rosa_transit #actividad .content .texto_curso ol.bck-ol-2 li:before, 
+.unittag_rosa_transit #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
+.unittag_rosa_transit #actividad .popover-content ol.bck-ol-2 li:before {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit #actividad .content .cke_contents ol.bck-ol-3 li:before, 
+.unittag_rosa_transit #actividad .content .texto_curso ol.bck-ol-3 li:before, 
+.unittag_rosa_transit #actividad .content .workspace ul li ol.bck-ol-3 li:before, 
+.unittag_rosa_transit #actividad .popover-content ol.bck-ol-3 li:before {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit #actividad .content .cke_contents ol.bck-ol-4 li:before, 
+.unittag_rosa_transit #actividad .content .texto_curso ol.bck-ol-4 li:before, 
+.unittag_rosa_transit #actividad .content .workspace ul li ol.bck-ol-4 li:before, 
+.unittag_rosa_transit #actividad .popover-content ol.bck-ol-4 li:before {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit #actividad .content .cke_contents ol.bck-ol-5 li:before, 
+.unittag_rosa_transit #actividad .content .texto_curso ol.bck-ol-5 li:before, 
+.unittag_rosa_transit #actividad .content .workspace ul li ol.bck-ol-5 li:before, 
+.unittag_rosa_transit #actividad .popover-content ol.bck-ol-5 li:before {
+    color: #CD6281;
+}
+
+.unittag_rosa_transit #actividad .content .cke_contents .bck-ul-1 li:before,
+.unittag_rosa_transit #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.unittag_rosa_transit #actividad .popover-content ul.bck-ul-1 li:before,
+.unittag_rosa_transit #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    color: #CD6281;
+}
+
+
+/*caja 07*/
+.unittag_rosa_transit .bck-box.bck-box-7 {
+    border: 1px solid #CD6281;
+}
+
+
+.unittag_rosa_transit .bck-box.bck-box-7:before {
+    background: url(images/icono_caja_07_azul.png);
+        content: "";
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: -42px;
+    z-index: 100;
+    top: -19%;
+    width: 85px;
+    padding: 45px;
+}
+
+
+.unittag_rosa_transit .bck-box.bck-box-7>.bck-title {
+    color: #CD6281;
+}
+
+
+/*****************unittag_verde_transit************************/
+/*audios*/
+.unittag_verde_transit #actividad .player.audio {
+    background-image: url(images/audio_transit_azul.png);
+}
+
+.unittag_verde_transit .bck-title-5 {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit .bck-title-6 {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit .bck-enfasis-2 {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit .bck-enfasis-3 {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit .item-container .icon-hablar1:before {
+    background-image: url(images/icono_bocadillo_1_azul.png);
+}
+
+.unittag_verde_transit .item-container .icon-hablar2:before {
+    background-image: url(images/icono_bocadillo_2_azul.png);
+}
+
+.unittag_verde_transit .item-container .icon-hablar3:before {
+        background-image: url(images/icono_bocadillo_3_azul.png);
+}
+
+.unittag_verde_transit .item-container .icon-lupa:before {
+    background-image: url(images/icono_lupa_azul.png);
+}
+
+.unittag_verde_transit .item-container .icon-lapiz:before {
+    background-image: url(images/icono_lapiz_azul.png);
+}
+
+.unittag_verde_transit .item-container .icon-dados:before {
+    background-image: url(images/icono_dados_azul.png);
+}
+
+.unittag_verde_transit .item-container .icon-leer:before {
+    background-image: url(images/icono_leer_azul.png);
+}
+
+.unittag_verde_transit .item-container .icon-video:before {
+    background-image: url(images/icono_video_azul.png);
+}
+
+
+.unittag_verde_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
+.unittag_verde_transit #actividad .content .texto_curso ol.bck-ol-1 li:before, 
+.unittag_verde_transit #actividad .content .workspace ul li ol.bck-ol-1 li:before, 
+.unittag_verde_transit #actividad .popover-content ol.bck-ol-1 li:before {
+    background: #3DBB8A;
+    border: 1px solid #3DBB8A;
+}
+
+.unittag_verde_transit #actividad .content .cke_contents ol.bck-ol-2 li:before, 
+.unittag_verde_transit #actividad .content .texto_curso ol.bck-ol-2 li:before, 
+.unittag_verde_transit #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
+.unittag_verde_transit #actividad .popover-content ol.bck-ol-2 li:before {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit #actividad .content .cke_contents ol.bck-ol-3 li:before, 
+.unittag_verde_transit #actividad .content .texto_curso ol.bck-ol-3 li:before, 
+.unittag_verde_transit #actividad .content .workspace ul li ol.bck-ol-3 li:before, 
+.unittag_verde_transit #actividad .popover-content ol.bck-ol-3 li:before {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit #actividad .content .cke_contents ol.bck-ol-4 li:before, 
+.unittag_verde_transit #actividad .content .texto_curso ol.bck-ol-4 li:before, 
+.unittag_verde_transit #actividad .content .workspace ul li ol.bck-ol-4 li:before, 
+.unittag_verde_transit #actividad .popover-content ol.bck-ol-4 li:before {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit #actividad .content .cke_contents ol.bck-ol-5 li:before, 
+.unittag_verde_transit #actividad .content .texto_curso ol.bck-ol-5 li:before, 
+.unittag_verde_transit #actividad .content .workspace ul li ol.bck-ol-5 li:before, 
+.unittag_verde_transit #actividad .popover-content ol.bck-ol-5 li:before {
+    color: #3DBB8A;
+}
+
+.unittag_verde_transit #actividad .content .cke_contents .bck-ul-1 li:before,
+.unittag_verde_transit #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.unittag_verde_transit #actividad .popover-content ul.bck-ul-1 li:before,
+.unittag_verde_transit #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    color: #3DBB8A;
+}
+
+
+/*caja 07*/
+.unittag_verde_transit .bck-box.bck-box-7 {
+    border: 1px solid #3DBB8A;
+}
+
+
+.unittag_verde_transit .bck-box.bck-box-7:before {
+    background: url(images/icono_caja_07_azul.png);
+        content: "";
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: -42px;
+    z-index: 100;
+    top: -19%;
+    width: 85px;
+    padding: 45px;
+}
+
+
+.unittag_verde_transit .bck-box.bck-box-7>.bck-title {
+    color: #3DBB8A;
+}
+
+
+/*****************unittag_naranja_transit************************/
+/*audios*/
+.unittag_naranja_transit #actividad .player.audio {
+    background-image: url(images/audio_transit_azul.png);
+}
+
+.unittag_naranja_transit .bck-title-5 {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit .bck-title-6 {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit .bck-enfasis-2 {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit .bck-enfasis-3 {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit .item-container .icon-hablar1:before {
+    background-image: url(images/icono_bocadillo_1_azul.png);
+}
+
+.unittag_naranja_transit .item-container .icon-hablar2:before {
+    background-image: url(images/icono_bocadillo_2_azul.png);
+}
+
+.unittag_naranja_transit .item-container .icon-hablar3:before {
+        background-image: url(images/icono_bocadillo_3_azul.png);
+}
+
+.unittag_naranja_transit .item-container .icon-lupa:before {
+    background-image: url(images/icono_lupa_azul.png);
+}
+
+.unittag_naranja_transit .item-container .icon-lapiz:before {
+    background-image: url(images/icono_lapiz_azul.png);
+}
+
+.unittag_naranja_transit .item-container .icon-dados:before {
+    background-image: url(images/icono_dados_azul.png);
+}
+
+.unittag_naranja_transit .item-container .icon-leer:before {
+    background-image: url(images/icono_leer_azul.png);
+}
+
+.unittag_naranja_transit .item-container .icon-video:before {
+    background-image: url(images/icono_video_azul.png);
+}
+
+
+.unittag_naranja_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
+.unittag_naranja_transit #actividad .content .texto_curso ol.bck-ol-1 li:before, 
+.unittag_naranja_transit #actividad .content .workspace ul li ol.bck-ol-1 li:before, 
+.unittag_naranja_transit #actividad .popover-content ol.bck-ol-1 li:before {
+    background: #F28B24;
+    border: 1px solid #F28B24;
+}
+
+.unittag_naranja_transit #actividad .content .cke_contents ol.bck-ol-2 li:before, 
+.unittag_naranja_transit #actividad .content .texto_curso ol.bck-ol-2 li:before, 
+.unittag_naranja_transit #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
+.unittag_naranja_transit #actividad .popover-content ol.bck-ol-2 li:before {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit #actividad .content .cke_contents ol.bck-ol-3 li:before, 
+.unittag_naranja_transit #actividad .content .texto_curso ol.bck-ol-3 li:before, 
+.unittag_naranja_transit #actividad .content .workspace ul li ol.bck-ol-3 li:before, 
+.unittag_naranja_transit #actividad .popover-content ol.bck-ol-3 li:before {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit #actividad .content .cke_contents ol.bck-ol-4 li:before, 
+.unittag_naranja_transit #actividad .content .texto_curso ol.bck-ol-4 li:before, 
+.unittag_naranja_transit #actividad .content .workspace ul li ol.bck-ol-4 li:before, 
+.unittag_naranja_transit #actividad .popover-content ol.bck-ol-4 li:before {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit #actividad .content .cke_contents ol.bck-ol-5 li:before, 
+.unittag_naranja_transit #actividad .content .texto_curso ol.bck-ol-5 li:before, 
+.unittag_naranja_transit #actividad .content .workspace ul li ol.bck-ol-5 li:before, 
+.unittag_naranja_transit #actividad .popover-content ol.bck-ol-5 li:before {
+    color: #F28B24;
+}
+
+.unittag_naranja_transit #actividad .content .cke_contents .bck-ul-1 li:before,
+.unittag_naranja_transit #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.unittag_naranja_transit #actividad .popover-content ul.bck-ul-1 li:before,
+.unittag_naranja_transit #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    color: #F28B24;
+}
+
+
+/*caja 07*/
+.unittag_naranja_transit .bck-box.bck-box-7 {
+    border: 1px solid #F28B24;
+}
+
+
+.unittag_naranja_transit .bck-box.bck-box-7:before {
+    background: url(images/icono_caja_07_azul.png);
+        content: "";
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: -42px;
+    z-index: 100;
+    top: -19%;
+    width: 85px;
+    padding: 45px;
+}
+
+
+.unittag_naranja_transit .bck-box.bck-box-7>.bck-title {
+    color: #F28B24;
+}
+
+/*****************unittag_violeta_transit************************/
+/*audios*/
+.unittag_violeta_transit #actividad .player.audio {
+    background-image: url(images/audio_transit_azul.png);
+}
+
+.unittag_violeta_transit .bck-title-5 {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit .bck-title-6 {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit .bck-enfasis-2 {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit .bck-enfasis-3 {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit .item-container .icon-hablar1:before {
+    background-image: url(images/icono_bocadillo_1_azul.png);
+}
+
+.unittag_violeta_transit .item-container .icon-hablar2:before {
+    background-image: url(images/icono_bocadillo_2_azul.png);
+}
+
+.unittag_violeta_transit .item-container .icon-hablar3:before {
+        background-image: url(images/icono_bocadillo_3_azul.png);
+}
+
+.unittag_violeta_transit .item-container .icon-lupa:before {
+    background-image: url(images/icono_lupa_azul.png);
+}
+
+.unittag_violeta_transit .item-container .icon-lapiz:before {
+    background-image: url(images/icono_lapiz_azul.png);
+}
+
+.unittag_violeta_transit .item-container .icon-dados:before {
+    background-image: url(images/icono_dados_azul.png);
+}
+
+.unittag_violeta_transit .item-container .icon-leer:before {
+    background-image: url(images/icono_leer_azul.png);
+}
+
+.unittag_violeta_transit .item-container .icon-video:before {
+    background-image: url(images/icono_video_azul.png);
+}
+
+
+.unittag_violeta_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
+.unittag_violeta_transit #actividad .content .texto_curso ol.bck-ol-1 li:before, 
+.unittag_violeta_transit #actividad .content .workspace ul li ol.bck-ol-1 li:before, 
+.unittag_violeta_transit #actividad .popover-content ol.bck-ol-1 li:before {
+    background: #6C80BE;
+    border: 1px solid #6C80BE;
+}
+
+.unittag_violeta_transit #actividad .content .cke_contents ol.bck-ol-2 li:before, 
+.unittag_violeta_transit #actividad .content .texto_curso ol.bck-ol-2 li:before, 
+.unittag_violeta_transit #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
+.unittag_violeta_transit #actividad .popover-content ol.bck-ol-2 li:before {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit #actividad .content .cke_contents ol.bck-ol-3 li:before, 
+.unittag_violeta_transit #actividad .content .texto_curso ol.bck-ol-3 li:before, 
+.unittag_violeta_transit #actividad .content .workspace ul li ol.bck-ol-3 li:before, 
+.unittag_violeta_transit #actividad .popover-content ol.bck-ol-3 li:before {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit #actividad .content .cke_contents ol.bck-ol-4 li:before, 
+.unittag_violeta_transit #actividad .content .texto_curso ol.bck-ol-4 li:before, 
+.unittag_violeta_transit #actividad .content .workspace ul li ol.bck-ol-4 li:before, 
+.unittag_violeta_transit #actividad .popover-content ol.bck-ol-4 li:before {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit #actividad .content .cke_contents ol.bck-ol-5 li:before, 
+.unittag_violeta_transit #actividad .content .texto_curso ol.bck-ol-5 li:before, 
+.unittag_violeta_transit #actividad .content .workspace ul li ol.bck-ol-5 li:before, 
+.unittag_violeta_transit #actividad .popover-content ol.bck-ol-5 li:before {
+    color: #6C80BE;
+}
+
+.unittag_violeta_transit #actividad .content .cke_contents .bck-ul-1 li:before,
+.unittag_violeta_transit #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.unittag_violeta_transit #actividad .popover-content ul.bck-ul-1 li:before,
+.unittag_violeta_transit #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    color: #6C80BE;
+}
+
+
+/*caja 07*/
+.unittag_violeta_transit .bck-box.bck-box-7 {
+    border: 1px solid #6C80BE;
+}
+
+
+.unittag_violeta_transit .bck-box.bck-box-7:before {
+    background: url(images/icono_caja_07_azul.png);
+        content: "";
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: -42px;
+    z-index: 100;
+    top: -19%;
+    width: 85px;
+    padding: 45px;
+}
+
+
+.unittag_violeta_transit .bck-box.bck-box-7>.bck-title {
+    color: #6C80BE;
+}
 
 /*querys*/
 
