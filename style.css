@@ -1420,7 +1420,7 @@ color: #fff;
 /*caja 07*/
 .bck-box.bck-box-7 {
     padding: 16px 11px 16px 9px;
-    border: 1px solid #EF3D61;
+    border: 3px solid #EF3D61;
     background-color: #fff;
     border-radius: 0 30px 30px 30px;
 }
@@ -2597,7 +2597,7 @@ table.bck-table-1 td {
 }
 
 .unittag_verde_transit .item-container .icon-video:before {
-    background-image: url(images/icono_video_azul.png);
+    background-image: url(images/icono_video_verde.png);
 }
 
 
