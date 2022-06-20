@@ -2205,35 +2205,35 @@ table.bck-table-1 td {
 }
 
 .unittag_rosa_transit .item-container .icon-hablar1:before {
-    background-image: url(images/icono_bocadillo_1_azul.png);
+    background-image: url(images/icono_bocadillo_1_rosa.png);
 }
 
 .unittag_rosa_transit .item-container .icon-hablar2:before {
-    background-image: url(images/icono_bocadillo_2_azul.png);
+    background-image: url(images/icono_bocadillo_2_rosa.png);
 }
 
 .unittag_rosa_transit .item-container .icon-hablar3:before {
-        background-image: url(images/icono_bocadillo_3_azul.png);
+        background-image: url(images/icono_bocadillo_3_rosa.png);
 }
 
 .unittag_rosa_transit .item-container .icon-lupa:before {
-    background-image: url(images/icono_lupa_azul.png);
+    background-image: url(images/icono_lupa_rosa.png);
 }
 
 .unittag_rosa_transit .item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_azul.png);
+    background-image: url(images/icono_lapiz_rosa.png);
 }
 
 .unittag_rosa_transit .item-container .icon-dados:before {
-    background-image: url(images/icono_dados_azul.png);
+    background-image: url(images/icono_dados_rosa.png);
 }
 
 .unittag_rosa_transit .item-container .icon-leer:before {
-    background-image: url(images/icono_leer_azul.png);
+    background-image: url(images/icono_leer_rosa.png);
 }
 
 .unittag_rosa_transit .item-container .icon-video:before {
-    background-image: url(images/icono_video_azul.png);
+    background-image: url(images/icono_video_rosa.png);
 }
 
 
@@ -2288,7 +2288,7 @@ table.bck-table-1 td {
 
 
 .unittag_rosa_transit .bck-box.bck-box-7:before {
-    background: url(images/icono_caja_07_azul.png);
+    background: url(images/icono_caja_07_rosa.png);
         content: "";
     background-size: contain;
     background-repeat: no-repeat;
@@ -2309,7 +2309,7 @@ table.bck-table-1 td {
 /*****************unittag_verde_transit************************/
 /*audios*/
 .unittag_verde_transit #actividad .player.audio {
-    background-image: url(images/audio_transit_azul.png);
+    background-image: url(images/audio_transit_verde.png);
 }
 
 .unittag_verde_transit .bck-title-5 {
@@ -2329,31 +2329,31 @@ table.bck-table-1 td {
 }
 
 .unittag_verde_transit .item-container .icon-hablar1:before {
-    background-image: url(images/icono_bocadillo_1_azul.png);
+    background-image: url(images/icono_bocadillo_1_verde.png);
 }
 
 .unittag_verde_transit .item-container .icon-hablar2:before {
-    background-image: url(images/icono_bocadillo_2_azul.png);
+    background-image: url(images/icono_bocadillo_2_verde.png);
 }
 
 .unittag_verde_transit .item-container .icon-hablar3:before {
-        background-image: url(images/icono_bocadillo_3_azul.png);
+        background-image: url(images/icono_bocadillo_3_verde.png);
 }
 
 .unittag_verde_transit .item-container .icon-lupa:before {
-    background-image: url(images/icono_lupa_azul.png);
+    background-image: url(images/icono_lupa_verde.png);
 }
 
 .unittag_verde_transit .item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_azul.png);
+    background-image: url(images/icono_lapiz_verde.png);
 }
 
 .unittag_verde_transit .item-container .icon-dados:before {
-    background-image: url(images/icono_dados_azul.png);
+    background-image: url(images/icono_dados_verde.png);
 }
 
 .unittag_verde_transit .item-container .icon-leer:before {
-    background-image: url(images/icono_leer_azul.png);
+    background-image: url(images/icono_leer_verde.png);
 }
 
 .unittag_verde_transit .item-container .icon-video:before {
@@ -2412,7 +2412,7 @@ table.bck-table-1 td {
 
 
 .unittag_verde_transit .bck-box.bck-box-7:before {
-    background: url(images/icono_caja_07_azul.png);
+    background: url(images/icono_caja_07_verde.png);
         content: "";
     background-size: contain;
     background-repeat: no-repeat;
@@ -2433,7 +2433,7 @@ table.bck-table-1 td {
 /*****************unittag_naranja_transit************************/
 /*audios*/
 .unittag_naranja_transit #actividad .player.audio {
-    background-image: url(images/audio_transit_azul.png);
+    background-image: url(images/audio_transit_naranja.png);
 }
 
 .unittag_naranja_transit .bck-title-5 {
@@ -2453,35 +2453,43 @@ table.bck-table-1 td {
 }
 
 .unittag_naranja_transit .item-container .icon-hablar1:before {
-    background-image: url(images/icono_bocadillo_1_azul.png);
+    background-image: url(images/icono_bocadillo_1_naranja.png);
 }
 
 .unittag_naranja_transit .item-container .icon-hablar2:before {
-    background-image: url(images/icono_bocadillo_2_azul.png);
+    background-image: url(images/icono_bocadillo_2_naranja.png);
 }
 
 .unittag_naranja_transit .item-container .icon-hablar3:before {
-        background-image: url(images/icono_bocadillo_3_azul.png);
+        background-image: url(images/icono_bocadillo_3_naranja.png);
 }
 
 .unittag_naranja_transit .item-container .icon-lupa:before {
-    background-image: url(images/icono_lupa_azul.png);
+    background-image: url(images/icono_lupa_naranja.png);
 }
 
 .unittag_naranja_transit .item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_azul.png);
+    background-image: url(images/icono_lapiz_naranja.png);
 }
 
 .unittag_naranja_transit .item-container .icon-dados:before {
-    background-image: url(images/icono_dados_azul.png);
+    background-image: url(images/icono_dados_naranja.png);
 }
 
 .unittag_naranja_transit .item-container .icon-leer:before {
-    background-image: url(images/icono_leer_azul.png);
+    background-image: url(images/icono_leer_naranja.png);
 }
 
 .unittag_naranja_transit .item-container .icon-video:before {
-    background-image: url(images/icono_video_azul.png);
+    background-image: url(images/icono_video_naranja.png);
+}
+
+.unittag_naranja_transit .item-container .icon-a_toi:before {
+    background-image: url(images/icono_a_toi_naranaja.png);
+}
+
+.unittag_naranja_transit .item-container .icon-a_vous:before {
+    background-image: url(images/icono_a_vous_naranja.png);
 }
 
 
@@ -2536,7 +2544,7 @@ table.bck-table-1 td {
 
 
 .unittag_naranja_transit .bck-box.bck-box-7:before {
-    background: url(images/icono_caja_07_azul.png);
+    background: url(images/icono_caja_07_naranja.png);
         content: "";
     background-size: contain;
     background-repeat: no-repeat;
@@ -2556,7 +2564,7 @@ table.bck-table-1 td {
 /*****************unittag_violeta_transit************************/
 /*audios*/
 .unittag_violeta_transit #actividad .player.audio {
-    background-image: url(images/audio_transit_azul.png);
+    background-image: url(images/audio_transit_morado.png);
 }
 
 .unittag_violeta_transit .bck-title-5 {
@@ -2576,35 +2584,35 @@ table.bck-table-1 td {
 }
 
 .unittag_violeta_transit .item-container .icon-hablar1:before {
-    background-image: url(images/icono_bocadillo_1_azul.png);
+    background-image: url(images/icono_bocadillo_1_morado.png);
 }
 
 .unittag_violeta_transit .item-container .icon-hablar2:before {
-    background-image: url(images/icono_bocadillo_2_azul.png);
+    background-image: url(images/icono_bocadillo_2_morado.png);
 }
 
 .unittag_violeta_transit .item-container .icon-hablar3:before {
-        background-image: url(images/icono_bocadillo_3_azul.png);
+        background-image: url(images/icono_bocadillo_3_morado.png);
 }
 
 .unittag_violeta_transit .item-container .icon-lupa:before {
-    background-image: url(images/icono_lupa_azul.png);
+    background-image: url(images/icono_lupa_morado.png);
 }
 
 .unittag_violeta_transit .item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_azul.png);
+    background-image: url(images/icono_lapiz_morado.png);
 }
 
 .unittag_violeta_transit .item-container .icon-dados:before {
-    background-image: url(images/icono_dados_azul.png);
+    background-image: url(images/icono_dados_morado.png);
 }
 
 .unittag_violeta_transit .item-container .icon-leer:before {
-    background-image: url(images/icono_leer_azul.png);
+    background-image: url(images/icono_leer_morado.png);
 }
 
 .unittag_violeta_transit .item-container .icon-video:before {
-    background-image: url(images/icono_video_azul.png);
+    background-image: url(images/icono_video_morado.png);
 }
 
 
@@ -2659,7 +2667,7 @@ table.bck-table-1 td {
 
 
 .unittag_violeta_transit .bck-box.bck-box-7:before {
-    background: url(images/icono_caja_07_azul.png);
+    background: url(images/icono_caja_07_morado.png);
         content: "";
     background-size: contain;
     background-repeat: no-repeat;
