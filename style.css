@@ -2476,6 +2476,14 @@ table.bck-table-1 td {
     background-image: url(images/icono_video_rosa.png);
 }
 
+.unittag_rosa_transit .item-container .icon-a_toi:before {
+    background-image: url(images/icono_a_toi_naranaja.png);
+}
+
+.unittag_rosa_transit .item-container .icon-a_vous:before {
+    background-image: url(images/icono_a_vous_naranja.png);
+}
+
 
 .unittag_rosa_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
 .unittag_rosa_transit #actividad .content .texto_curso ol.bck-ol-1 li:before, 
@@ -2600,6 +2608,13 @@ table.bck-table-1 td {
     background-image: url(images/icono_video_verde.png);
 }
 
+.unittag_verde_transit .item-container .icon-a_toi:before {
+    background-image: url(images/icono_a_toi_naranaja.png);
+}
+
+.unittag_verde_transit .item-container .icon-a_vous:before {
+    background-image: url(images/icono_a_vous_naranja.png);
+}
 
 .unittag_verde_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
 .unittag_verde_transit #actividad .content .texto_curso ol.bck-ol-1 li:before, 
@@ -2724,13 +2739,7 @@ table.bck-table-1 td {
     background-image: url(images/icono_video_naranja.png);
 }
 
-.unittag_naranja_transit .item-container .icon-a_toi:before {
-    background-image: url(images/icono_a_toi_naranaja.png);
-}
 
-.unittag_naranja_transit .item-container .icon-a_vous:before {
-    background-image: url(images/icono_a_vous_naranja.png);
-}
 
 
 .unittag_naranja_transit #actividad .content .cke_contents ol.bck-ol-1 li:before, 
