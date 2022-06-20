@@ -1519,6 +1519,246 @@ display: none;
 display: none;
 }
 
+/*caja 09*/
+.body_clase:not(.edit) #actividad .bck-box.bck-box-9 {
+position: relative;
+    BORDER: 2px solid #ACD037;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 0;
+}
+
+.bck-box.bck-box-9:after {
+    display: none;
+    content: none
+}
+
+
+.bck-box.bck-box-9>.bck-content {
+    padding-left: 0
+}
+
+.bck-box.bck-box-9>.bck-content {
+    border: 0;
+    padding: 10px 25px;
+    margin-top: -22px;
+}
+
+.body_clase:not(.edit) #actividad .bck-box.bck-box-9>.bck-title {
+font-size: 30px;
+    border: none;
+    font-family: 'Atma';
+    margin-top: -44px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #ACD037;
+    text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.bck-box-9>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box.bck-box-9>.bck-title p {
+    font-size: 23px;
+}
+
+.bck-box.bck-box-9:before {
+    display: none;
+}
+
+.bck-box.bck-box-9:after {
+display: none;
+}
+
+.bck-box.bck-box-9 .bck-title:before {
+display: none;
+}
+
+/*caja 10*/
+.body_clase:not(.edit) #actividad .bck-box.bck-box-10 {
+position: relative;
+    BORDER: 2px solid #D2A92A;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 0;
+}
+
+.bck-box.bck-box-10:after {
+    display: none;
+    content: none
+}
+
+
+.bck-box.bck-box-10>.bck-content {
+    padding-left: 0
+}
+
+.bck-box.bck-box-10>.bck-content {
+    border: 0;
+    padding: 10px 25px;
+    margin-top: -22px;
+}
+
+.body_clase:not(.edit) #actividad .bck-box.bck-box-10>.bck-title {
+font-size: 30px;
+    border: none;
+    font-family: 'Atma';
+    margin-top: -44px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #D2A92A;
+    text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.bck-box-10>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box.bck-box-10>.bck-title p {
+    font-size: 23px;
+}
+
+.bck-box.bck-box-10:before {
+    display: none;
+}
+
+.bck-box.bck-box-10:after {
+display: none;
+}
+
+.bck-box.bck-box-10 .bck-title:before {
+display: none;
+}
+
+
+/*caja 11*/
+.body_clase:not(.edit) #actividad .bck-box.bck-box-11 {
+position: relative;
+    BORDER: 2px solid #C8919D;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 0;
+}
+
+.bck-box.bck-box-11:after {
+    display: none;
+    content: none
+}
+
+
+.bck-box.bck-box-11>.bck-content {
+    padding-left: 0
+}
+
+.bck-box.bck-box-11>.bck-content {
+    border: 0;
+    padding: 10px 25px;
+    margin-top: -22px;
+}
+
+.body_clase:not(.edit) #actividad .bck-box.bck-box-11>.bck-title {
+font-size: 30px;
+    border: none;
+    font-family: 'Atma';
+    margin-top: -44px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #C8919D;
+    text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.bck-box-9>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box.bck-box-11>.bck-title p {
+    font-size: 23px;
+}
+
+.bck-box.bck-box-11:before {
+    display: none;
+}
+
+.bck-box.bck-box-11:after {
+display: none;
+}
+
+.bck-box.bck-box-11 .bck-title:before {
+display: none;
+}
+
+/*caja 12*/
+.body_clase:not(.edit) #actividad .bck-box.bck-box-12 {
+position: relative;
+    BORDER: 2px solid #F8D009;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 0;
+}
+
+.bck-box.bck-box-12:after {
+    display: none;
+    content: none
+}
+
+
+.bck-box.bck-box-12>.bck-content {
+    padding-left: 0
+}
+
+.bck-box.bck-box-12>.bck-content {
+    border: 0;
+    padding: 10px 25px;
+    margin-top: -22px;
+}
+
+.body_clase:not(.edit) #actividad .bck-box.bck-box-12>.bck-title {
+font-size: 30px;
+    border: none;
+    font-family: 'Atma';
+    margin-top: -44px;
+    background-color: #fff;
+    width: fit-content;
+    text-align: center;
+    color: #F8D009;
+    text-transform: uppercase;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.bck-box-9>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box.bck-box-12>.bck-title p {
+    font-size: 23px;
+}
+
+.bck-box.bck-box-12:before {
+    display: none;
+}
+
+.bck-box.bck-box-12:after {
+display: none;
+}
+
+.bck-box.bck-box-12 .bck-title:before {
+display: none;
+}
 /**/
 
 #actividad .content .iniciounidad .header .title h3 {
