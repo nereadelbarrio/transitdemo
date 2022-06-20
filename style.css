@@ -2185,7 +2185,7 @@ table.bck-table-1 td {
 /*****************unittag_rosa_transit************************/
 /*audios*/
 .unittag_rosa_transit #actividad .player.audio {
-    background-image: url(images/audio_transit_azul.png);
+    background-image: url(images/audio_transit_rosa.png);
 }
 
 .unittag_rosa_transit .bck-title-5 {
@@ -2213,7 +2213,7 @@ table.bck-table-1 td {
 }
 
 .unittag_rosa_transit .item-container .icon-hablar3:before {
-        background-image: url(images/icono_bocadillo_3_rosa.png);
+        background-image: url(images/icono_bocadillo_3_rosal.png);
 }
 
 .unittag_rosa_transit .item-container .icon-lupa:before {
@@ -2608,7 +2608,7 @@ table.bck-table-1 td {
 }
 
 .unittag_violeta_transit .item-container .icon-leer:before {
-    background-image: url(images/icono_leer_morado.png);
+    background-image: url(images/icono_leer_moradol.png);
 }
 
 .unittag_violeta_transit .item-container .icon-video:before {
