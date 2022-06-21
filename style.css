@@ -1,4 +1,4 @@
-/*estilo TRANSIT>_transitdemo*/
+/*estilo TRANSIT>_transit*/
 
 @charset "UTF-8";
 
@@ -982,8 +982,8 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso .bck-ol-1 li:before, 
 #actividad .content .workspace ul li .bck-ol-1 li:before, 
 #actividad .popover-content .bck-ol-1 li:before {
-content: counter(bck-li-counter);
-    height: 25px;
+    content: counter(bck-li-counter);
+    height: 27px;
     position: absolute;
     color: #fff;
     background: #EF3D61;
@@ -1000,6 +1000,7 @@ content: counter(bck-li-counter);
     text-align: center;
     width: 28px;
     left: auto;
+    /* padding: 0px; */
 }
 
 #actividad .content .cke_contents .bck-ol-2,
